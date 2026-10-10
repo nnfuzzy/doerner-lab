@@ -1,0 +1,5048 @@
+{
+  "026d813b0100e8a256c5f77fdf39ae4fd7cebb85713d98db58731a73f7e812c1": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "magical_hypothesis",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 1.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.3
+      }
+    }
+  },
+  "029f8d1e8df3313982dd3498e4a728e18e1c7901a2bfe52414c4a20792d1e438": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "g0": {
+        "type": "noul",
+        "noul": 0.08
+      },
+      "g1": {
+        "type": "noul",
+        "noul": 0.08
+      },
+      "g2": {
+        "type": "noul",
+        "noul": 0.06
+      },
+      "g3": {
+        "type": "noul",
+        "noul": 0.19
+      },
+      "g4": {
+        "type": "noul",
+        "noul": 0.86
+      },
+      "g5": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g6": {
+        "type": "noul",
+        "noul": 0.06
+      },
+      "g7": {
+        "type": "noul",
+        "noul": 0.36
+      },
+      "g8": {
+        "type": "noul",
+        "noul": 0.21
+      },
+      "g9": {
+        "type": "noul",
+        "noul": 0.08
+      },
+      "g10": {
+        "type": "noul",
+        "noul": 0.08
+      },
+      "g11": {
+        "type": "noul",
+        "noul": 0.79
+      },
+      "g12": {
+        "type": "noul",
+        "noul": 0.05
+      },
+      "g13": {
+        "type": "noul",
+        "noul": 0.12
+      },
+      "g14": {
+        "type": "noul",
+        "noul": 0.24
+      },
+      "g15": {
+        "type": "noul",
+        "noul": 0.07
+      }
+    }
+  },
+  "02d70c33ed5a25c17cdb702d596dbd9e443a0f6ff648572e5c29d801f5d9f431": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.79
+      }
+    }
+  },
+  "0427b2d261b81ee1a9d511f4b048816596d53306fe2199bdfcfb422c165554c1": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "central_reduction",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 1.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "04b2a181f0cfff382a8e2db9918e343379b65770730202ccacc7daecdf86e1f0": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "central_reduction",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 1.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.08
+      }
+    }
+  },
+  "06576297625e8bd95da5ea774a85a78af85e3b8c9ec6e00327afc95014b6de41": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.73,
+        "probabilities": {
+          "central_reduction": 0.01,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.21,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.77
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.76
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.92
+      }
+    }
+  },
+  "084b01d7ea33f8b786adbc9dfc183059a3d7acf5c445980c6554e0c8664ced9a": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.84
+      }
+    }
+  },
+  "090c7ed963e07d33bcbeb08815670dd2974099163015c88e57168f314e194a9a": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 1.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.13
+      }
+    }
+  },
+  "094caff115340468307332f1e9e6e0103347e14cf5546c07c611f2b8d9360234": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 1.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "0a6962feccdf83a2ec04ea24b48fa238aaaca95191eefc759aee70247cdd0d66": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "immunization",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 1.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "0ad708a3ba3574b6c6d72f19e028cf304fc74a24adbe091d1fd6aef2150e5858": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "magical_hypothesis",
+        "confidence": 0.87,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.89,
+          "methodism": 0.11,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.58
+      }
+    }
+  },
+  "0c079ed6a2be70130b4cdc6aad3060fe3a5a7f3759f048b551cc8e4e28203f61": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 1.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "0c2ac9866c6a31f9d7d438403c64f7e4663fcf49a3297a85ef1c6d32e54eefed": "{\"action\": \"promote_tourism\", \"reason\": \"Algae is at a manageable 1.8% and dredging is unaffordable, while tourism is below normal and hoteliers are demanding action. Promoting tourism now boosts the economy, and a phosphate cut can follow next month.\"}",
+  "0ca6e634f10a0e9527c65628e0e49987541cf895e4f63b94366dba1b4e70417c": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.67,
+        "probabilities": {
+          "central_reduction": 0.1,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.16,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.0,
+          "none": 0.72
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.79
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.94
+      }
+    }
+  },
+  "0caa9a851747085fcffbf96a878ae26c6e2cbc0ba094c061c0a691c511a6de4c": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 0.58,
+        "probabilities": {
+          "central_reduction": 0.02,
+          "wishful_thinking": 0.64,
+          "momentary_extrapolation": 0.09,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.25
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.66
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.71
+      }
+    }
+  },
+  "0cbd8d63fd90f2a5942c3513c3a3790295dbe0f20aaa920165b15feeba305ad0": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.96
+      }
+    }
+  },
+  "0cf321b1d27f2944b1d43f1fe39bda352b29c0333aa233ecce0e59dbd2c4abd1": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.91
+      }
+    }
+  },
+  "0d280e589ec9081bd7c6948d440836215962c9cc7c62a4d19ae2a7f7228de4f6": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "central_reduction",
+        "confidence": 0.96,
+        "probabilities": {
+          "central_reduction": 0.97,
+          "wishful_thinking": 0.03,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "0d90af36a8d12de165a3b3c6656bfd99e21f4a95b6ce3043645432542a94f845": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.05
+      }
+    }
+  },
+  "0e1637c8ff5d0a475252c690f9e8bba5fb9519dcf2f2cf61f73b7f4ac7692101": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "magical_hypothesis",
+        "confidence": 0.89,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.91,
+          "methodism": 0.09,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "0e4511111e29c9191d8b67f2e7101b508948a8897c57e30548899c0c1690d5db": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.48,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.44,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.0,
+          "none": 0.55
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.76
+      }
+    }
+  },
+  "0ecec426c08312416cab9973d422cf604950b42ee403c2c89df5cdbb20fdd9d1": "{\"action\": \"promote_tourism\", \"reason\": \"Tourism is below normal and hoteliers are demanding action; with algae at 2.0% and phosphate cuts already underway, an immediate tourism boost is the best use of funds.\"}",
+  "0f855417c46a41c1381287fb41a2e9fbe134576e2dc6299bf41fe910f558eb6b": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 0.99,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.99,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.12
+      }
+    }
+  },
+  "0f9925af7ebae18298451ae1880b7f4360b277449ef99d5485db18bae5ece971": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "magical_hypothesis",
+        "confidence": 0.93,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.94,
+          "methodism": 0.06,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "10aa37230414df439c2e6bad68d0029ed69df51e221909a6dd3405e4746dbffe": "{\"action\": \"dredge_lake\", \"reason\": \"Algae has risen to 2.7% despite the early phosphate cut, and it is nearing levels that could further hurt tourism. Dredging now removes algae immediately and is affordable with the current budget.\"}",
+  "116dd3e26766c5b04a8af9dffaa0d38ff790190cb53d1a43f369c6bfb2081382": "{\"action\": \"wait\", \"reason\": \"Budget is only 10, so I cannot afford dredging, phosphate cuts, or tourism promotion. Waiting preserves funds for a more impactful action next month.\"}",
+  "12d9e9aa4b5afdee14dadae06baffa1108479df96b5d2c1c65e87393f257650e": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.36,
+        "probabilities": {
+          "central_reduction": 0.18,
+          "wishful_thinking": 0.16,
+          "momentary_extrapolation": 0.17,
+          "immunization": 0.01,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.02,
+          "none": 0.45
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.67
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.18
+      }
+    }
+  },
+  "142c322e72c0b5f71f722c86ac5c92c96d46de45a501130a7b0e063acd6422a8": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 0.88,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.9,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.1,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.05
+      }
+    }
+  },
+  "14ac73289b3c982c43da4f88db38cd30bc56257cb70c9054be346a0ba26d4e95": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.85,
+        "probabilities": {
+          "central_reduction": 0.01,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.11,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.87
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.61
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.91
+      }
+    }
+  },
+  "14d63f28b2e9a487516619719acc6ec97a8737229863eefc59a3a2d9a4dbfde9": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.04
+      }
+    }
+  },
+  "14e5b509ce6d19fbfb76051ee09614df9695c2d9348a25b9309179e3a9a98bb2": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.8,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.16,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.01,
+          "none": 0.83
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.86
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.7
+      }
+    }
+  },
+  "14ede95b3879d4cae9eab11568b3f0bead1677e9a1487389cb1459b888645db1": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.11
+      }
+    }
+  },
+  "14f9aba2e0f7bd2c23c3ed4f54359ee5f0f61bb58df2e1df5977249b2e47728f": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.78,
+        "probabilities": {
+          "central_reduction": 0.03,
+          "wishful_thinking": 0.04,
+          "momentary_extrapolation": 0.11,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.81
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.73
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.9
+      }
+    }
+  },
+  "152d9fd07519a600a427b029719d7babcfadef74bb1d9318304e336932a94428": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.1
+      }
+    }
+  },
+  "1643c4e10ce397c323fdd9d1936aaf801e64968669d2f18471fa2314b8568fe5": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.06
+      }
+    }
+  },
+  "17c82bcdcd51ac8045363aa4572cc2fbb65667e42ecfdbb6d6eddfd3619e14fd": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.87,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.02,
+          "momentary_extrapolation": 0.09,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.89
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.79
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.79
+      }
+    }
+  },
+  "18e26ca605a3ca2e5bd5d5406743930292765c0057dfebfbb4258226214a6612": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.92,
+        "probabilities": {
+          "central_reduction": 0.05,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.01,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.93
+        }
+      }
+    }
+  },
+  "18f2d0f46d82e60fc97f29e0bcae32825ac4fcdfcc340c239204a1715e5fe153": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.95
+      }
+    }
+  },
+  "19c5ad97556897164dd66c283be73a42793244f8a323b3b141dfa938e32680f3": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 1.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "19cbf413bf8a5a7becb7207a51b0f093704119c657313d18a0720604ee81cf0c": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 1.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "1a0b15ba7f0c2c8c87eacfb4762535482e0a64a0a6d602a4e7ae8b9ce7047569": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.64,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.01,
+          "immunization": 0.14,
+          "magical_hypothesis": 0.15,
+          "methodism": 0.01,
+          "none": 0.69
+        }
+      }
+    }
+  },
+  "1d13733fd5da68314c818bd88109fbcaa314526715336961fd0e2c49546c90af": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.94
+      }
+    }
+  },
+  "1f91f4189032ad9da335c94808d2d49a149d580580da54ed745703ad4925259b": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.95
+      }
+    }
+  },
+  "1fb7ea9824a5c4d4c9308a0168105a41d35a2c540ea5541d83dbbe173ccb6efb": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.74,
+        "probabilities": {
+          "central_reduction": 0.07,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.15,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.78
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.13
+      }
+    }
+  },
+  "2008f153672f8831648654632abccded81c821c59a0a1ba1e58fb48f0f63caa5": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 0.57,
+        "probabilities": {
+          "central_reduction": 0.06,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.63,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.31
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.46
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.33
+      }
+    }
+  },
+  "200c09bb23ad8eedbbd81102ef329b4f8081098ebd8bfdaa939c37473da9c4c4": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "g0": {
+        "type": "noul",
+        "noul": 0.07
+      },
+      "g1": {
+        "type": "noul",
+        "noul": 0.09
+      },
+      "g2": {
+        "type": "noul",
+        "noul": 0.23
+      },
+      "g3": {
+        "type": "noul",
+        "noul": 0.06
+      },
+      "g4": {
+        "type": "noul",
+        "noul": 0.14
+      },
+      "g5": {
+        "type": "noul",
+        "noul": 0.15
+      },
+      "g6": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g7": {
+        "type": "noul",
+        "noul": 0.04
+      }
+    }
+  },
+  "20ca9b10d09fa2d9e418080b59f40ca00260c2546f198ba4526d4c08b11161ff": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 0.87,
+        "probabilities": {
+          "central_reduction": 0.02,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.03,
+          "methodism": 0.89,
+          "none": 0.05
+        }
+      }
+    }
+  },
+  "20ffad10c7c8382161b1b070cd739edf0b6dac6b69af612195a156bc6ccb651d": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 1.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "231f8585bd84a3d287a3697eb933bc21e655352638a168924f5005304b783b4d": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 0.99,
+        "probabilities": {
+          "central_reduction": 0.01,
+          "wishful_thinking": 0.99,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "246cf292778541dbcc1c374e5078cba73d8ab75dbbe644422ce1fb462c803bc4": "{\"action\": \"wait\", \"reason\": \"Dredging is unaffordable at 20, and cutting phosphate acts too slowly to help with algae already at 4.4%. Save the 10 monthly income to afford immediate dredging soon.\"}",
+  "2502506a4a09dcdd9c528d84a87c57c057249a3c22021e9579bd4ce24f684d60": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "central_reduction",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 1.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "2723299a38dd2c7eea4b445b42e57fc18e7860df90f60f43fffe8b004e62a47a": "{\"action\":\"cut_phosphate\",\"reason\":\"Algae has risen to 3.5% and dredging is unaffordable with only 20 budget; cutting phosphate now addresses the root cause before tourism suffers.\"}",
+  "282e11179c8e2ac2aaaf46862071115fd0d0f470ef4c3042a5645673d39b5539": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 1.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "28ca9f86f7972987adfa188d7cd75cbea80841341ccfde3b94d133370d225e99": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.95
+      }
+    }
+  },
+  "2a5774dbace2e557b630bd5035cfffcf152d4d9f828c03a768ad37f0607a5fb3": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.85
+      }
+    }
+  },
+  "2b6ad4734ead99eea2768107de762bf88d195c8b9645a7b1e9fc75ba0610f618": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.54,
+        "probabilities": {
+          "central_reduction": 0.08,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.09,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.2,
+          "methodism": 0.01,
+          "none": 0.61
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.74
+      }
+    }
+  },
+  "2c2356e6245297ec751a9378b8a6498a76fb3ff386b4ca1900867d622d83c4b3": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.87
+      }
+    }
+  },
+  "2dd2ce8a20ace9df424ea7cfa5ea6eef7506a229c051184a4b4ca42c03574589": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.4,
+        "probabilities": {
+          "central_reduction": 0.02,
+          "wishful_thinking": 0.1,
+          "momentary_extrapolation": 0.37,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.02,
+          "methodism": 0.0,
+          "none": 0.49
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.54
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.65
+      }
+    }
+  },
+  "2df76b9cb225f96921d4ae4d7cf04f00b78f20e13350c61d5530f74c624f606d": "{\"action\": \"wait\", \"reason\": \"Dredging is unaffordable now with only 30 budget, but waiting saves enough so the 40-cost dredge can be done next month to reduce the high algae level. Cutting phosphate acts too slowly and promoting tourism won't address the 4.6% algae reading.\"}",
+  "2e385a9b892dbb3be1f566cfbcd353461ba11bd7bcb4b0c19606592eaa4f450e": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "magical_hypothesis",
+        "confidence": 0.99,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.99,
+          "methodism": 0.01,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "3007de78530e48c788909a48cf4efda85dbe44df06d596ccd6f6a4b2d32ef021": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "immunization",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 1.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "309448a705dd91b56d1ce1582bf45c55851177c8b1abf79405d081f2c373b845": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 1.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.49
+      }
+    }
+  },
+  "32e7acc125ee9eb17a2e27571e59d16853d8c789b8f5f8ab43e646b2297fa375": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "magical_hypothesis",
+        "confidence": 0.99,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.99,
+          "methodism": 0.01,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.15
+      }
+    }
+  },
+  "32f18943307a6fbe74f25f3f6fed9913abf84c80340d57a1ebc2dc52722095ad": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "central_reduction",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 1.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.2
+      }
+    }
+  },
+  "33e97a34a4f1ac3057d15b38bc022b318dede097eab3645f795bcf35dcc4bdde": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "choice",
+        "choice": "cannot_tell",
+        "confidence": 0.95,
+        "probabilities": {
+          "yes": 0.03,
+          "no": 0.0,
+          "cannot_tell": 0.97
+        }
+      }
+    }
+  },
+  "3547042b5087fa1daa5981af02c103d9a62a1e0e6a2962a8b58c8137d6a5880c": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 1.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.69
+      }
+    }
+  },
+  "371dfb6b57aed6e8fef2fefae77a30e32938b15313b573b74c563e0b768d36ec": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.94
+      }
+    }
+  },
+  "3877a11310bd9a47c102b281a7f0826e34b1e088f0f92e602a8bdeba25e0a775": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "immunization",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 1.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "39c6e534543e9a947090f481ec179032c9ba1ee8f8e84f1b9dbc865dfdd7aa2e": "{\"action\": \"dredge_lake\", \"reason\": \"Algae is at 2.8% and rising despite early phosphate cuts, so immediate dredging is needed to prevent a bloom crisis. Tourism is below normal but can be promoted later once the lake is under control.\"}",
+  "3a7c288f0cec195005100b8a03e96451fadda514297feb179f83afc400003698": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.78
+      }
+    }
+  },
+  "3c6d142caef0b9585e377b305d7303d1d921eb428693bfdbf2586a63fe846c18": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.91,
+        "probabilities": {
+          "central_reduction": 0.07,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.01,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.92
+        }
+      }
+    }
+  },
+  "3d70176121cb95ad2f4b171e6d5e268f63929c2b4581b5ff9b47f3fda15a8cea": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.75
+      }
+    }
+  },
+  "3e21cc8a7bd7a00a865ddef22254456241f16fb36189f4e6deb6fd0f1ec20cc2": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "magical_hypothesis",
+        "confidence": 0.94,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.95,
+          "methodism": 0.05,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "3e3e7e825f7c0ec6db6a197db48c76088b4a5f6ee2f786700bba12a57776deaa": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 1.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.42
+      }
+    }
+  },
+  "3ffd3194feab9329a2b1afee60c1dad42d85879021de43e420d8fa269ff81545": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 0.86,
+        "probabilities": {
+          "central_reduction": 0.02,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.01,
+          "magical_hypothesis": 0.03,
+          "methodism": 0.88,
+          "none": 0.05
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.8
+      }
+    }
+  },
+  "403ca1a659f3f4198b076982612bdfbf359ffcfe17099d2708c454854e455125": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.05
+      }
+    }
+  },
+  "4365452a23935c223f11e390bbe4aaa7b0d4dcc8727a017947ef2be3ecce68f5": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 1.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "438b17501c5ff9c3de7f97e6f4982ae47d60ade10c77c77fcf3e072fabc015d8": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.72,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.01,
+          "immunization": 0.09,
+          "magical_hypothesis": 0.13,
+          "methodism": 0.0,
+          "none": 0.76
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.75
+      }
+    }
+  },
+  "44412278d146f266f72c75746608a1ebef5234e55392283d39d0376f6b71e01d": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.61,
+        "probabilities": {
+          "central_reduction": 0.05,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.07,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.19,
+          "methodism": 0.01,
+          "none": 0.67
+        }
+      }
+    }
+  },
+  "44518a2b1cd40923f0f459072727cc655799e0517c9574ea692865afb155a127": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 0.99,
+        "probabilities": {
+          "central_reduction": 0.01,
+          "wishful_thinking": 0.99,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.57
+      }
+    }
+  },
+  "450e782d4d3a1187186a0f261a47fc9fe1d40760c4046473cf6d1d4a3ae2ab44": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "choice",
+        "choice": "cannot_tell",
+        "confidence": 0.8,
+        "probabilities": {
+          "yes": 0.0,
+          "no": 0.13,
+          "cannot_tell": 0.87
+        }
+      }
+    }
+  },
+  "456a4a79f0e21a132abfbf2d993caeb930887fe7d0821eae6b5666b531dd3a63": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "g0": {
+        "type": "noul",
+        "noul": 0.16
+      },
+      "g1": {
+        "type": "noul",
+        "noul": 0.07
+      },
+      "g2": {
+        "type": "noul",
+        "noul": 0.15
+      }
+    }
+  },
+  "45a302f9ea0107d73454d4f0be1671edc1742a55abd4d3cf658d085068259614": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.95,
+        "probabilities": {
+          "central_reduction": 0.03,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.0,
+          "none": 0.96
+        }
+      }
+    }
+  },
+  "472f0d97dd4d9151f9324acd994636241b3905a2a2a78bfb967b7eea096ae645": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.66,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.01,
+          "immunization": 0.13,
+          "magical_hypothesis": 0.13,
+          "methodism": 0.01,
+          "none": 0.71
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.38
+      }
+    }
+  },
+  "4775f4fae1a22bf851881c6a83a2d9d4c848763e556a09491c72c6cbb29d9392": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "central_reduction",
+        "confidence": 0.96,
+        "probabilities": {
+          "central_reduction": 0.97,
+          "wishful_thinking": 0.03,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "482d7b3bd67cb9452a278ce1f5038ae71bdd8427f69623055aee373f4d150d25": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "magical_hypothesis",
+        "confidence": 0.99,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.99,
+          "methodism": 0.01,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "487a23c3403051f8103b35deb33924345ceb113f8ad40f051a5797eb3430fb0c": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "central_reduction",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 1.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "49a73ae40b75c727b564fa89e3f22b262d13a12c6a4e799876cc0ecdc60e56c6": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "immunization",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 1.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.6
+      }
+    }
+  },
+  "49bfaf0d344628d3a7cc7d74a625e7383e64f0eb573affb1935a1c591626a96d": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "central_reduction",
+        "confidence": 0.96,
+        "probabilities": {
+          "central_reduction": 0.97,
+          "wishful_thinking": 0.03,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.14
+      }
+    }
+  },
+  "4a8811ae3550aadd94c309848d2a02dd53df7cc68a55f696542c8d2f90ce7880": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.94,
+        "probabilities": {
+          "central_reduction": 0.04,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.0,
+          "none": 0.95
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.6
+      }
+    }
+  },
+  "4b3f6f8ffd8081bcb17ec86b5f37b32f75b3d07f77c9674c55d2646103644709": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.92
+      }
+    }
+  },
+  "4b4a700cce7c4e120034fa796703c05966736f3c154f414dfc51371c3acd847d": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 0.89,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.91,
+          "momentary_extrapolation": 0.02,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.060000000000000005,
+          "methodism": 0.0,
+          "none": 0.01
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.52
+      }
+    }
+  },
+  "4bd0a777b6a4c2d7f7ee70cd6361db935e75c1889b469d633fffba0bd69336cd": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.71,
+        "probabilities": {
+          "central_reduction": 0.01,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.24,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.75
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.5
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.94
+      }
+    }
+  },
+  "4d19bb75b24009c3f2d9827e3a121dc3b558cddd1a56395835d351375a427c51": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.93,
+        "probabilities": {
+          "central_reduction": 0.05,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.0,
+          "none": 0.94
+        }
+      }
+    }
+  },
+  "4d5a7ff425f88c8cb973b603d3bb28eb2f757e1f744860eaffe6442e06c5d560": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.89,
+        "probabilities": {
+          "central_reduction": 0.08,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.01,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.91
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.74
+      }
+    }
+  },
+  "4dce9f427fa9f79a336e07e04187829b9dc27e36efcaf50c53af749d02938823": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 0.86,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.88,
+          "momentary_extrapolation": 0.03,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.07,
+          "methodism": 0.01,
+          "none": 0.01
+        }
+      }
+    }
+  },
+  "4e79ac4024a6b0e586f7c21ac99ac3cec007525def878bf0cf8ae344776ffa84": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 0.95,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.96,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.04
+        }
+      }
+    }
+  },
+  "4f0b5b3f258635d1dd9ddb35e776a11abad329cfee93e3703c073b6c32d552e2": "{\"action\": \"cut_phosphate\", \"reason\": \"Algae has risen to 4.1% and dredging is unaffordable with only 25 budget, so the affordable cut_phosphate action is the best way to address the underlying problem.\"}",
+  "506da0476051692783fa86620c361a1643f815a332355880829a120c11368953": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.97
+      }
+    }
+  },
+  "537e2105107259c85f49e83db0c3acf841fd47dc4c39ab07815f110abc77488b": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "g0": {
+        "type": "noul",
+        "noul": 0.05
+      },
+      "g1": {
+        "type": "noul",
+        "noul": 0.07
+      },
+      "g2": {
+        "type": "noul",
+        "noul": 0.05
+      },
+      "g3": {
+        "type": "noul",
+        "noul": 0.13
+      },
+      "g4": {
+        "type": "noul",
+        "noul": 0.24
+      },
+      "g5": {
+        "type": "noul",
+        "noul": 0.03
+      },
+      "g6": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g7": {
+        "type": "noul",
+        "noul": 0.18
+      },
+      "g8": {
+        "type": "noul",
+        "noul": 0.16
+      },
+      "g9": {
+        "type": "noul",
+        "noul": 0.07
+      },
+      "g10": {
+        "type": "noul",
+        "noul": 0.06
+      },
+      "g11": {
+        "type": "noul",
+        "noul": 0.18
+      },
+      "g12": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g13": {
+        "type": "noul",
+        "noul": 0.07
+      },
+      "g14": {
+        "type": "noul",
+        "noul": 0.17
+      },
+      "g15": {
+        "type": "noul",
+        "noul": 0.05
+      }
+    }
+  },
+  "5446aa5451d127e7da8db7f64a2b7a130d127c679b3594328392323898764003": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.93
+      }
+    }
+  },
+  "564197ac5a0969406165305825061c6c67daf9f657a7875a67d63f3c90372a52": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "magical_hypothesis",
+        "confidence": 0.99,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.99,
+          "methodism": 0.01,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.17
+      }
+    }
+  },
+  "569c8646e9150a672e1de40dda35b0f44493676817d4226a0fd8211cfdb9ea24": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.71,
+        "probabilities": {
+          "central_reduction": 0.07,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.18,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.75
+        }
+      }
+    }
+  },
+  "572eab04eaa564e444049456db1749ad4646621912e333a074225830235d312a": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "choice",
+        "choice": "cannot_tell",
+        "confidence": 0.98,
+        "probabilities": {
+          "yes": 0.01,
+          "no": 0.0,
+          "cannot_tell": 0.99
+        }
+      }
+    }
+  },
+  "5827d5d6de765e278c0c4816c3db545668fdc082e85a3417fec327d6e99a3765": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 0.99,
+        "probabilities": {
+          "central_reduction": 0.01,
+          "wishful_thinking": 0.99,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "582d30bf6c6030d9394d4d311fd0969b9a7201e11dc644fbb93448529c02d463": "{\"action\": \"cut_phosphate\", \"reason\": \"Algae is at 2.9% and rising, while dredging is unaffordable with only 25 budget. Cutting phosphate now will slow the long-term algae growth without hurting the already-normal tourism.\"}",
+  "584bd6158a2f29f343d65578d36b96f919b02c75e38236efac296bf4a077abed": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.86,
+        "probabilities": {
+          "central_reduction": 0.02,
+          "wishful_thinking": 0.02,
+          "momentary_extrapolation": 0.08,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.88
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.72
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.94
+      }
+    }
+  },
+  "5922b9869c59a4e748bd5e9b726ed1ae5597f732b3e37566d3cefadf61cb2e9a": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.07
+      }
+    }
+  },
+  "59f28eae68e3c87a963cd050177275243c69271897eb178ca1408ef96cfcba74": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.91,
+        "probabilities": {
+          "central_reduction": 0.05,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.02,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.92
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.4
+      }
+    }
+  },
+  "5ce6d454f4b3edf3a02f8c2f2dcae5c04cb0707a5f9b51da20d1706d871bfd78": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "central_reduction",
+        "confidence": 0.98,
+        "probabilities": {
+          "central_reduction": 0.98,
+          "wishful_thinking": 0.02,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.32
+      }
+    }
+  },
+  "5f469a31826968215e77cc1002cba8c0f8538e23929787a03771c31d35916c18": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "magical_hypothesis",
+        "confidence": 0.93,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.94,
+          "methodism": 0.06,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.71
+      }
+    }
+  },
+  "60761f5850333d7dc6054d08ee04f94f9774b5de9b62442eb48a8ae7ccc6b969": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.02
+      }
+    }
+  },
+  "60c6f97715b0207b7dce8f8784ecf03a5a52c8d42d2b04fe1e6dd341b90dd8cc": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.25
+      }
+    }
+  },
+  "60f58e412f7013d28d7594eacadc6ce076f93da3d2b203622be401b899eb724a": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 1.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.1
+      }
+    }
+  },
+  "625b8e2de205a1b3ad16fe66b5e9384f1cb644dc80b5514153089576b1f64809": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "g0": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g1": {
+        "type": "noul",
+        "noul": 0.07
+      },
+      "g2": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g3": {
+        "type": "noul",
+        "noul": 0.15
+      },
+      "g4": {
+        "type": "noul",
+        "noul": 0.03
+      },
+      "g5": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g6": {
+        "type": "noul",
+        "noul": 0.18
+      },
+      "g7": {
+        "type": "noul",
+        "noul": 0.23
+      },
+      "g8": {
+        "type": "noul",
+        "noul": 0.06
+      },
+      "g9": {
+        "type": "noul",
+        "noul": 0.07
+      },
+      "g10": {
+        "type": "noul",
+        "noul": 0.28
+      },
+      "g11": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g12": {
+        "type": "noul",
+        "noul": 0.07
+      },
+      "g13": {
+        "type": "noul",
+        "noul": 0.13
+      },
+      "g14": {
+        "type": "noul",
+        "noul": 0.06
+      },
+      "g15": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g16": {
+        "type": "noul",
+        "noul": 0.06
+      },
+      "g17": {
+        "type": "noul",
+        "noul": 0.03
+      },
+      "g18": {
+        "type": "noul",
+        "noul": 0.12
+      },
+      "g19": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g20": {
+        "type": "noul",
+        "noul": 0.09
+      },
+      "g21": {
+        "type": "noul",
+        "noul": 0.18
+      },
+      "g22": {
+        "type": "noul",
+        "noul": 0.05
+      },
+      "g23": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g24": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g25": {
+        "type": "noul",
+        "noul": 0.03
+      },
+      "g26": {
+        "type": "noul",
+        "noul": 0.03
+      },
+      "g27": {
+        "type": "noul",
+        "noul": 0.03
+      },
+      "g28": {
+        "type": "noul",
+        "noul": 0.08
+      },
+      "g29": {
+        "type": "noul",
+        "noul": 0.2
+      },
+      "g30": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g31": {
+        "type": "noul",
+        "noul": 0.04
+      }
+    }
+  },
+  "62848503f237bae8660bc08632add1fbe2eea22056787b1bd1eb61fb04d20a5f": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.97
+      }
+    }
+  },
+  "6381eeb226f7ea0e9750e331df3a89efb1a725e2debc6955aef4ecb2a3d073e1": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.54,
+        "probabilities": {
+          "central_reduction": 0.06,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.11,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.2,
+          "methodism": 0.01,
+          "none": 0.61
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.78
+      }
+    }
+  },
+  "63bcc91de2e4cc655b026dc8bc3a1d0a1ffab0ab34116e68557cf6c51c9b830a": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "central_reduction",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 1.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "63d401e45c2ed8155f79b0184df6052de4188e335fc33c913c1403c3ac8dc229": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "central_reduction",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 1.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "646d76f02a01a012d18ac20265d42c1f7762f2b2b17214167a6ffb87b4fbd9a3": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.31
+      }
+    }
+  },
+  "64d91bb98ba5175a6b1510bf7a72c5196a86801538618c9ae8bd3be58a1fff0c": "{\"action\": \"wait\", \"reason\": \"Algae is at a manageable 1.8% and tourism is near normal at 96, while the budget cannot cover dredging. Saving now keeps funds available for a dredge next month if algae rises again.\"}",
+  "64de15a69fda4b5719e248c45761b9242cc383a4a4b3f29f9e91fcb49eb21281": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.96
+      }
+    }
+  },
+  "65f627ee53bbcc8f0fbd37fb628339e63d248dee3ecd10306d76a6a3c3bf838e": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.18
+      }
+    }
+  },
+  "662f3c4e998c000d8966b7b3d3de828c93080fd77b4f04ea40a0c421e9532daf": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "immunization",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 1.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.38
+      }
+    }
+  },
+  "66b7711570fb4201b7f8c379670d884d048cd9df0e9dcb02e21a414d8c38edb2": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.21
+      }
+    }
+  },
+  "66c43f01bdf0bbafc7afdecf0946732f2af68c5973a8e5e6f91461c1461869c0": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.37,
+        "probabilities": {
+          "central_reduction": 0.03,
+          "wishful_thinking": 0.07,
+          "momentary_extrapolation": 0.42,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.01,
+          "none": 0.46
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.84
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.68
+      }
+    }
+  },
+  "66eaf7192e037475f41497161c329273330dfc1777650eef48c99cfa79d7880f": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.86,
+        "probabilities": {
+          "central_reduction": 0.02,
+          "wishful_thinking": 0.03,
+          "momentary_extrapolation": 0.05,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.02,
+          "methodism": 0.0,
+          "none": 0.88
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.55
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.98
+      }
+    }
+  },
+  "67e05bedd779c3ece9ccc24d953ff1b88fed9358d93d156f622be07fae75a8d5": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "immunization",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 1.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.29
+      }
+    }
+  },
+  "6813ac0555f635485385b8b5265cc15500ff990e812f0698cf48a976457a4d5d": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.76,
+        "probabilities": {
+          "central_reduction": 0.07,
+          "wishful_thinking": 0.03,
+          "momentary_extrapolation": 0.11,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.79
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.74
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.77
+      }
+    }
+  },
+  "68839e3a1798525d7f10884905d8222967fa550d5221751b92fabdba975372a6": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.95
+      }
+    }
+  },
+  "69b84f1c49145bf8b4c2a85259e3b7e2c1858e4036895578e26cc57b9a3971f5": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "magical_hypothesis",
+        "confidence": 0.99,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.99,
+          "methodism": 0.01,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.07
+      }
+    }
+  },
+  "6aa04c64484c2265b16c1182cdc4743b46c77ada0e0728a52945ee398af87d5b": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 0.85,
+        "probabilities": {
+          "central_reduction": 0.01,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.87,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.12
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.34
+      }
+    }
+  },
+  "6b179823202b83c9600350bfa309c324fc6ad46552c516d095af01f637b2608a": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "g0": {
+        "type": "noul",
+        "noul": 0.95
+      },
+      "g1": {
+        "type": "noul",
+        "noul": 0.09
+      },
+      "g2": {
+        "type": "noul",
+        "noul": 0.86
+      }
+    }
+  },
+  "6ef9891bd47b8469c6d3c9ede2d62bff7f358fbba29da250dafa22197c611cb7": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.93,
+        "probabilities": {
+          "central_reduction": 0.05,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.01,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.94
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.74
+      }
+    }
+  },
+  "70409158a1066d750510ab095f4f757f95fb356b3a6f7d12e93136b959029135": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.95
+      }
+    }
+  },
+  "70aa819c463277108c4517ba8f36e66bbdebba44f0cd969044c2d4a079ce0b77": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.47
+      }
+    }
+  },
+  "70ac74da99090028b6c6c6b8f7fec6c53b085ecef570c140f15c1161e222edf2": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.91,
+        "probabilities": {
+          "central_reduction": 0.07,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.01,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.92
+        }
+      }
+    }
+  },
+  "70b66be82af3b51e403f40983513dc0464aabccc6a581b171dbe534e3ea66f73": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.05
+      }
+    }
+  },
+  "70f84c4c8e9e0200d2ca7757211f1f137e63d8a2bf7556ac538276be2011fc56": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.73
+      }
+    }
+  },
+  "7305d76989a8d5a38a89f12743a5c4ad6c953c689c518cffaa8ed4e962db52ad": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "immunization",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 1.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "7442dfc2a47aaa5fb8c7d980436a74c5b97ec91c893492909be30a6912ebeb9e": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.05
+      }
+    }
+  },
+  "75fbc99da44ac46308b18ebebd19fc002a8682c7bf45bbadba3bc21f76239867": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.54,
+        "probabilities": {
+          "central_reduction": 0.02,
+          "wishful_thinking": 0.25,
+          "momentary_extrapolation": 0.12,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.61
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.76
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.22
+      }
+    }
+  },
+  "76a478d0e11ae46eb83ac9fcebf4b3a81dd9e76a375b93bd64c13f3b3ad761ec": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.72
+      }
+    }
+  },
+  "78b5167711e53b22920589353727ef9175e043066559cd4e54e9ad0d8eecd2ee": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 1.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.6
+      }
+    }
+  },
+  "78d344984dabe0e9eb383074e88b532f4898926c1e71dc00d4c3f10eff77a1c6": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.84
+      }
+    }
+  },
+  "79c1539554839c7308aa2643c1e7bca052f2d7b0e416f6cbc8bdc38391652cd6": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.94
+      }
+    }
+  },
+  "7b4c7afba4115463edb34f96c4f1d8d78deada5caffacef74e25e7ed7926fea3": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 0.99,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.99,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "7ccb06718a65eb0b11fa35ca7e5b69aeb3bedb8119bca7389431e234b3e61216": "{\"action\": \"wait\", \"reason\": \"Budget is only 10, so no intervention is affordable this month. Algae is high at 4.1%, but waiting is the only available action until income accumulates.\"}",
+  "7d8a97e663ebd88f08c8b150830d2ecfe00e6b59ed639a54d2ae81b688a21a7c": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 1.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.58
+      }
+    }
+  },
+  "7e89e0142309ddfc3f1a6d047717c9f4d341b936611a5e646616703d2c38ae13": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.04
+      }
+    }
+  },
+  "802f8778b8c638102ca013676083545b7b70ebc8a18ed5ff7db3d2187dd7fdc5": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "g0": {
+        "type": "noul",
+        "noul": 0.08
+      },
+      "g1": {
+        "type": "noul",
+        "noul": 0.14
+      },
+      "g2": {
+        "type": "noul",
+        "noul": 0.89
+      },
+      "g3": {
+        "type": "noul",
+        "noul": 0.08
+      },
+      "g4": {
+        "type": "noul",
+        "noul": 0.22
+      },
+      "g5": {
+        "type": "noul",
+        "noul": 0.8
+      },
+      "g6": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g7": {
+        "type": "noul",
+        "noul": 0.05
+      }
+    }
+  },
+  "81252b8299e1a60d9a5b3885867aafd796c1f5ba3dd0b7a0c4fe93bf4a79a0c6": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "immunization",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 1.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "8491f48edd9a50c77e461d928e54ae4f16cd7c3d738ed0d3a59c602a82aabeff": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 0.86,
+        "probabilities": {
+          "central_reduction": 0.02,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.01,
+          "magical_hypothesis": 0.03,
+          "methodism": 0.88,
+          "none": 0.05
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.96
+      }
+    }
+  },
+  "854dcc1ed82499fc99608bdea5932a8481b7d9ef5b44d62a17e6bf0100dfb09a": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 1.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.38
+      }
+    }
+  },
+  "85929d77b81fcb77377bdc16fda43d07f1cd270fad71bd002ac422033ffab6a0": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.9
+      }
+    }
+  },
+  "8baa8880fc2d3ea3d4566910300766586096ddf46dccbce53961d6feb4ed2081": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 0.88,
+        "probabilities": {
+          "central_reduction": 0.01,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.01,
+          "immunization": 0.01,
+          "magical_hypothesis": 0.02,
+          "methodism": 0.9,
+          "none": 0.04
+        }
+      }
+    }
+  },
+  "8d47773740d81519f7d5854dae5537caa6728bf9dc2beda6128a77697a852d51": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.64,
+        "probabilities": {
+          "central_reduction": 0.2,
+          "wishful_thinking": 0.02,
+          "momentary_extrapolation": 0.09,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.69
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.74
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.4
+      }
+    }
+  },
+  "8d4f52daba0d3d74a5195f4501cfadace9aca59a0405cfcda850eabeb360a0ec": "{\"action\":\"promote_tourism\",\"reason\":\"Tourism is at 90 and hoteliers are demanding action, so promoting tourism gives immediate relief; it costs 15, leaving 55, and has no direct algae benefit, while the earlier phosphate cut should keep reducing algae slowly.\"}",
+  "8e5bb12086cc164fb928696bbd50881a5ba50d35010f30606cd0afb3fbaa9d90": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.71,
+        "probabilities": {
+          "central_reduction": 0.09,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.15,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.75
+        }
+      }
+    }
+  },
+  "8fd1d8f29fc0d1b7344648f863765c74786adc849335c4ea03cafc68ff7f083b": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.43
+      }
+    }
+  },
+  "9144c3352403843e41e6f2c4f63e388559f0d13fe21c189361847ca898c85e13": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.57,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.36,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.0,
+          "none": 0.63
+        }
+      }
+    }
+  },
+  "9241c8058e7c28aac7e2dca75c1987bfb2b6aab4ea00e24f98c96ed3bb09e101": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 1.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "924a50ed8da3fc18a296b1a875d9b6ad740c832468e4a89d21a0278125c9e012": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.53,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.39,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.0,
+          "none": 0.6
+        }
+      }
+    }
+  },
+  "95019b962c54c5f00ce13f2d582a5f3469309c6aa897d15f873997d15bfc23df": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "central_reduction",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 1.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "964554e8f7bcb96c98ac60e61273346b036168bb3dd9072b9b4a65f4f8706f97": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "magical_hypothesis",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 1.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "9aa4bd8d264079de808813a8f60be154b7dcb080bfc1f8d43356e31dae1c03ed": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.04
+      }
+    }
+  },
+  "9abb97ba2ac72e19e16830d9db668bb96dc524666522c15dd01ff77c0a72068f": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.53,
+        "probabilities": {
+          "central_reduction": 0.02,
+          "wishful_thinking": 0.2,
+          "momentary_extrapolation": 0.13,
+          "immunization": 0.03,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.01,
+          "none": 0.6
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.31
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.99
+      }
+    }
+  },
+  "9bc546e0b2374acb4a9d3941b019b24ad994c602f398a3e78c9f5d5ac580aed3": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.56
+      }
+    }
+  },
+  "9d39010d6225e81f8ad7a47433f2ef86dece6cc2b9921b875cd42aed1ba48361": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 0.85,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.87,
+          "momentary_extrapolation": 0.01,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.12,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "9e5fbe246beceec2a01afa4c4cecd7c9e9e46e6fafd75f1763342cccb143b7c4": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.96
+      }
+    }
+  },
+  "9eca97a2d2ba0712a84713c6fd821f57c6ef2916c6231d77f43f1bd0277cf022": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.88,
+        "probabilities": {
+          "central_reduction": 0.02,
+          "wishful_thinking": 0.04,
+          "momentary_extrapolation": 0.04,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.9
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.74
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.74
+      }
+    }
+  },
+  "9eedff661c3cc5e31d422d9706889b60d27f0379f0951a8efb7186b49d9ab4a4": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 1.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.75
+      }
+    }
+  },
+  "9fc757d9f0ee4079b0fc83c5a5d26fbf69a765c7a93ac7ee3f4ef06338d304e5": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.93
+      }
+    }
+  },
+  "9fceac1ec296991ba08bb5b7498a1e11d6526438c50769946410ea8650d16921": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 1.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "_ask|{\"town\": {\"reservoir\": {\"level\": \"below the minimum for drinking water since Monday\"}}}|{\"q\": {\"type\": \"noul\", \"instructions\": \"Is the town's drinking-water supply at risk?\"}}": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.94
+      }
+    }
+  },
+  "_ask|{\"town\": {\"reservoir\": {\"level\": \"normal for the season\"}}}|{\"q\": {\"type\": \"noul\", \"instructions\": \"Is the town's drinking-water supply at risk?\"}}": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.12
+      }
+    }
+  },
+  "_mayor|Month 1. Newspaper: \"Quiet month at the lake.\"\nTourism index: 100 (100 is normal). Algae lab reading: 2.0% of the lake.\nBudget: 100.\nYour last actions: none": "{\"action\": \"cut_phosphate\", \"reason\": \"Algae is already at 2.0%, and phosphate reduction acts slowly, so starting early is the best way to prevent blooms later. I will preserve budget by waiting on costly dredging or tourism promotion until the lake condition or visitor numbers require it.\"}",
+  "a00f3b85200a91f012241d0a6026fcaeaf824d40ff99a2eb7a3df4b95a214280": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 1.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "a0c565e527556bcc13e67b7ecad16a5b59cde709fbc0a0794f808d2acb111132": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 0.93,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.04,
+          "momentary_extrapolation": 0.94,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.02
+        }
+      }
+    }
+  },
+  "a359f79c838b63982d203d7f988b8216aedc4d6d1e1cebd4248f302c988b3370": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 0.99,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.99,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.35
+      }
+    }
+  },
+  "a4a3dc1f719f7d23dd8d76136e3f6f5c13168302ac852a78993f961c51288f27": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 1.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.17
+      }
+    }
+  },
+  "a4b332ad9b8fe7b436796c2deaa2d0180f1b6e2cc76385b58a377e2e963abdfe": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "immunization",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 1.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.33
+      }
+    }
+  },
+  "a6aa4094dfa270bf8d0d8306d3c0146c24c4287ccea554312055480936b585a1": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.77
+      }
+    }
+  },
+  "a74378ca988d31e1864393f2da373a251a3e9124c3123e173126001e0b5e8f1f": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.09
+      }
+    }
+  },
+  "a74dc980f06a864f9577b2a47e5cb8086600d9eed701c9d2fac98352779a8123": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "magical_hypothesis",
+        "confidence": 0.98,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.98,
+          "methodism": 0.02,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "a7e6e66bcce21362b01b80541df8c47097929a1bcbb206266fb93a9bbcef9b68": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.95
+      }
+    }
+  },
+  "a827e45862ea425add912d19e99d99d1002df78ba5d1c9e2ce6351b1cbfd2172": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 1.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "a8bcc3c58b194cdcd798314d6dafd88969975ee91edae5abfd96e5774cf25a9b": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.94
+      }
+    }
+  },
+  "a9157c02e14df4efc6013ddf06a971e12c0b936d5749fd029e59bc723eaf5ae6": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 1.0
+        }
+      }
+    }
+  },
+  "a930d6cac1da9ec6e77931f902f82eda9b0b0298d55867d19d56dc76661bd3c9": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.13
+      }
+    }
+  },
+  "a9b86a7e99bb17f594deaa18f1ac924b05f6405bfbf31b505f3f08ca6924c4db": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.59,
+        "probabilities": {
+          "central_reduction": 0.04,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.29,
+          "immunization": 0.01,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.01,
+          "none": 0.65
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.7
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.21
+      }
+    }
+  },
+  "aa4aab4ca43e1207e84e8dbdfecdeffa30e45f461928cf370464bf74b9d07c8c": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 0.35,
+        "probabilities": {
+          "central_reduction": 0.07,
+          "wishful_thinking": 0.44,
+          "momentary_extrapolation": 0.1,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.0,
+          "none": 0.38
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.54
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.57
+      }
+    }
+  },
+  "ab52a297d7cd3094701a4a60ba8510270739cb46c43e0e4c6cd296bd94890b97": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.91,
+        "probabilities": {
+          "central_reduction": 0.05,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.02,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.92
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.52
+      }
+    }
+  },
+  "ac4ef76a9e19739985732a0ce7baf519974784597c25bd59e8120916256f511f": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 1.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.17
+      }
+    }
+  },
+  "ad0d235fb936fc1c20fa0b19cc061280564321765b679f998d7c01345b5b4618": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.05
+      }
+    }
+  },
+  "ae0ac56ae1ba02ee7d5ffb49ee90c13443c37af86eadf7f1ed5edf982be8ffc0": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.59,
+        "probabilities": {
+          "central_reduction": 0.24,
+          "wishful_thinking": 0.02,
+          "momentary_extrapolation": 0.08,
+          "immunization": 0.01,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.65
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.55
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.37
+      }
+    }
+  },
+  "ae2f543202313d2522b93967132c7c317a836b71de9b49ad586fa25d522ac450": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.43,
+        "probabilities": {
+          "central_reduction": 0.06,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.23,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.18,
+          "methodism": 0.01,
+          "none": 0.51
+        }
+      }
+    }
+  },
+  "ae6ddf265af9d839d2bd1ed8ff14288380da3a8b0a018a0e0d3e3470a536752c": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.04
+      }
+    }
+  },
+  "b012dbd1bc39a13cf074d3ae72947a1eedc03350692106f99e27893db9c376a5": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.74,
+        "probabilities": {
+          "central_reduction": 0.06,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.15000000000000002,
+          "immunization": 0.01,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.78
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.46
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.6
+      }
+    }
+  },
+  "b01ceb1075b271b8d02043ffc28e4b15cddaf1cb0eb4d76d69687d23832a011f": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.17
+      }
+    }
+  },
+  "b34f61a164b72b09e42d4ff920abe28d41a6bff70a9210fefbc197d228005549": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.51,
+        "probabilities": {
+          "central_reduction": 0.03,
+          "wishful_thinking": 0.11,
+          "momentary_extrapolation": 0.22,
+          "immunization": 0.05,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.01,
+          "none": 0.58
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.73
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.69
+      }
+    }
+  },
+  "b36fd4a79abc76e7fb3cbbdce93260827791ba94c5579142d7b8e88185d67eee": "{\"action\": \"cut_phosphate\", \"reason\": \"Tourism is already normal at 100, so promotion is unnecessary, while dredging is unaffordable. With algae at 3.9%, using cut_phosphate continues the slow reduction effort and is affordable within the 25 budget.\"}",
+  "b45453eba911a597f57823bc0a226711dd1a9855122a18c766c4f2b5b3ecc01b": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "choice",
+        "choice": "cannot_tell",
+        "confidence": 0.95,
+        "probabilities": {
+          "yes": 0.01,
+          "no": 0.02,
+          "cannot_tell": 0.97
+        }
+      }
+    }
+  },
+  "b4d025c16e59588f48c8d6b79bb5a9973fcee753836f2acba3c0a7b660b82a40": "{\"action\": \"wait\", \"reason\": \"Tourism is already normal at 100, while the budget of 15 cannot cover cut_phosphate (20) or dredge_lake (40). Waiting preserves funds for a more effective intervention when algae rises further.\"}",
+  "b4ea47e4eed40cb4f5e0e28a65cb446189392639e3f33b4448dca82e852bfb31": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.1
+      }
+    }
+  },
+  "b553750d6718890d0d1d0ea0ee8c3a9f3affc5822e626295594963d96c732293": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.7
+      }
+    }
+  },
+  "b836acbe66131e0258ece8f56ffa8f521a29b4f3df392df7bcc53db755811bbc": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.94,
+        "probabilities": {
+          "central_reduction": 0.01,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.04,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.95
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.8
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.43
+      }
+    }
+  },
+  "ba55bb91a293c5ca357690e8688e9923d0506724ac4a1d3aeb72aa6f63961529": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.07
+      }
+    }
+  },
+  "bb2457e387cfd998ff5f6a8e40892f3e9db924d803676381add49d7cd4f1f448": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 0.99,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.99,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.7
+      }
+    }
+  },
+  "bba9e54b366e8fa47a57624c10eee94b76d305494e916e218540f7c7d6c74703": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.89,
+        "probabilities": {
+          "central_reduction": 0.03,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.05,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.91
+        }
+      }
+    }
+  },
+  "bc053bb07fa634ad50003b5773a930b0ce648d378df9c3b54bfe0c7ad6402996": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.78,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.02,
+          "immunization": 0.07,
+          "magical_hypothesis": 0.09,
+          "methodism": 0.0,
+          "none": 0.81
+        }
+      }
+    }
+  },
+  "bd71355fc8dd4719c4d45323e7089fc605e10400077aede951e82b189dc83999": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "magical_hypothesis",
+        "confidence": 0.95,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.96,
+          "methodism": 0.04,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.05
+      }
+    }
+  },
+  "bde734d56a4834e4b8f072fbe521415e516cc13f30b7006abc839997b9201c61": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.82,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.03,
+          "momentary_extrapolation": 0.12,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.85
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.84
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.56
+      }
+    }
+  },
+  "c06623ba430d35e22dcec2007d2fb86ae6212737cdbc2ed929f719ca75f01090": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.94,
+        "probabilities": {
+          "central_reduction": 0.02,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.03,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.95
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.83
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.04
+      }
+    }
+  },
+  "c096315fb40a2880799951a2cb2bf0f0d8c441f708f1eaa7a826fde17101a34f": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "choice",
+        "choice": "no",
+        "confidence": 0.95,
+        "probabilities": {
+          "yes": 0.0,
+          "no": 0.97,
+          "cannot_tell": 0.03
+        }
+      }
+    }
+  },
+  "c16341aeaf152bca874b7a9e433cf8eef626df2fb0a3d144eb61f950bfd00e20": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 0.84,
+        "probabilities": {
+          "central_reduction": 0.01,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.86,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.13
+        }
+      }
+    }
+  },
+  "c19fe3f6e9a6a83f31d71c83e5c8ed62de2d20bf01a696c50d6c0d6521c602e7": "{\"action\": \"wait\", \"reason\": \"With only 15 budget I cannot afford cut_phosphate or dredging, and tourism is already normal so promotion would waste funds. Waiting preserves income to afford cut_phosphate next month, though its slow-acting effect means algae will likely keep rising in the meantime.\"}",
+  "c2155cc5b3f374dc314ed444d267c26bfe753cbf22943348e08f918e204394ec": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 1.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.19
+      }
+    }
+  },
+  "c311dab38df260ab40b973e7e69a8ce6c34b127d21696ee0561d2697c1a55a37": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 0.99,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.01,
+          "momentary_extrapolation": 0.99,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.34
+      }
+    }
+  },
+  "c38dd0e92069c08e27115b461e59d8fab59e5b3e0c49d570c952c531fbef92f9": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.8,
+        "probabilities": {
+          "central_reduction": 0.1,
+          "wishful_thinking": 0.03,
+          "momentary_extrapolation": 0.04,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.83
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.75
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.07
+      }
+    }
+  },
+  "c5eebea0bd2c4b641d86150da822b97c62a2f9c754b52795989284340c5069ea": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "immunization",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 1.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.26
+      }
+    }
+  },
+  "c6626c306177b00c0eb346aa1f022d2f91dded1337b50c3c6d04d5d4c7209dc9": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.57
+      }
+    }
+  },
+  "c8b23d8439c196e97a64cb298f788e341fa6315023fd5402c7e37ec7dac8b327": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.8
+      }
+    }
+  },
+  "c92989b88aed52dea6da78c9264078fa46ad4d9f77cf619043682a8e0c67a9dd": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 1.0
+        }
+      }
+    }
+  },
+  "c97f5ee8a798279bdf7ba83989ffed65ebbb9ef1ecc9fe69ed7ed148f1b69ba3": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "choice",
+        "choice": "yes",
+        "confidence": 1.0,
+        "probabilities": {
+          "yes": 1.0,
+          "no": 0.0,
+          "cannot_tell": 0.0
+        }
+      }
+    }
+  },
+  "ca6fb5324792c41270cd24bc826fbffd7533c255553b50db319d6405a08e08d0": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 0.56,
+        "probabilities": {
+          "central_reduction": 0.02,
+          "wishful_thinking": 0.62,
+          "momentary_extrapolation": 0.06,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.0,
+          "none": 0.29
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.74
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.23
+      }
+    }
+  },
+  "cb4d8830b9339b4cc6368dd049c0cce6b0b94539bbf3e50fb8e82f0499fc8a1e": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "central_reduction",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 1.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.12
+      }
+    }
+  },
+  "cc09227d1615343bd58febf86c5eee41295bf59eb0820ad0c46c818f4e45ad57": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "g0": {
+        "type": "noul",
+        "noul": 0.07
+      },
+      "g1": {
+        "type": "noul",
+        "noul": 0.08
+      },
+      "g2": {
+        "type": "noul",
+        "noul": 0.05
+      },
+      "g3": {
+        "type": "noul",
+        "noul": 0.26
+      },
+      "g4": {
+        "type": "noul",
+        "noul": 0.03
+      },
+      "g5": {
+        "type": "noul",
+        "noul": 0.05
+      },
+      "g6": {
+        "type": "noul",
+        "noul": 0.3
+      },
+      "g7": {
+        "type": "noul",
+        "noul": 0.23
+      },
+      "g8": {
+        "type": "noul",
+        "noul": 0.08
+      },
+      "g9": {
+        "type": "noul",
+        "noul": 0.1
+      },
+      "g10": {
+        "type": "noul",
+        "noul": 0.86
+      },
+      "g11": {
+        "type": "noul",
+        "noul": 0.07
+      },
+      "g12": {
+        "type": "noul",
+        "noul": 0.12
+      },
+      "g13": {
+        "type": "noul",
+        "noul": 0.16
+      },
+      "g14": {
+        "type": "noul",
+        "noul": 0.07
+      },
+      "g15": {
+        "type": "noul",
+        "noul": 0.05
+      },
+      "g16": {
+        "type": "noul",
+        "noul": 0.09
+      },
+      "g17": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g18": {
+        "type": "noul",
+        "noul": 0.24
+      },
+      "g19": {
+        "type": "noul",
+        "noul": 0.05
+      },
+      "g20": {
+        "type": "noul",
+        "noul": 0.14
+      },
+      "g21": {
+        "type": "noul",
+        "noul": 0.85
+      },
+      "g22": {
+        "type": "noul",
+        "noul": 0.05
+      },
+      "g23": {
+        "type": "noul",
+        "noul": 0.05
+      },
+      "g24": {
+        "type": "noul",
+        "noul": 0.06
+      },
+      "g25": {
+        "type": "noul",
+        "noul": 0.03
+      },
+      "g26": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g27": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g28": {
+        "type": "noul",
+        "noul": 0.1
+      },
+      "g29": {
+        "type": "noul",
+        "noul": 0.24
+      },
+      "g30": {
+        "type": "noul",
+        "noul": 0.04
+      },
+      "g31": {
+        "type": "noul",
+        "noul": 0.05
+      }
+    }
+  },
+  "ce34e28cdccc9e6ce1be53643d6c889841a8d2f1e333ba9a7a38e0af6abdbb56": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.56,
+        "probabilities": {
+          "central_reduction": 0.09,
+          "wishful_thinking": 0.05,
+          "momentary_extrapolation": 0.22,
+          "immunization": 0.01,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.0,
+          "none": 0.62
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.84
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.8
+      }
+    }
+  },
+  "ce88d54abf83a7afd43c672afe93993eafb41c945227c7c1d77c6a99d34f3cf2": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.95
+      }
+    }
+  },
+  "cee1d0eab3d825389f93ff4569685a325ba0802457c961bd9272b3d885cc72cf": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.57,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.35,
+          "magical_hypothesis": 0.02,
+          "methodism": 0.0,
+          "none": 0.63
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.77
+      }
+    }
+  },
+  "cf7fef19cc8fd601244d9d0c29ea04e225904325053d1874b9a188a59130b49e": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 0.87,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.89,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.11,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.21
+      }
+    }
+  },
+  "d01eba0118c1bf5359d146117f3951b98ae3604385164b08b57dd06376b0882a": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.09
+      }
+    }
+  },
+  "d15c64c6681e5ac8dcd7ab61b88b58124002a8682e4351e25389751d7a830cae": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.94
+      }
+    }
+  },
+  "d1c9f663eb3ae1bfde7d425d61ff232281f2c11bf335b087189054eadd5f6651": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "magical_hypothesis",
+        "confidence": 0.93,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.94,
+          "methodism": 0.06,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.05
+      }
+    }
+  },
+  "d4cd137eed13609402972e27c0c9beac1f5099bd76113bb49c275c7fd1957280": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "immunization",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 1.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.49
+      }
+    }
+  },
+  "d8debd076a2fb78c7b523e6c4a7c4b083d79e5eabf68c649ee36000b57e1e215": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.59
+      }
+    }
+  },
+  "db47cbca927cdc0b7b0ef40ba3ed38fe3baf0a25441b76444565f88c83d244f2": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 1.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "dc5659ae5044faaf64e1fc6372c7a28520691a1241c217b1afafab38ee5e7048": "{\"action\": \"dredge_lake\", \"reason\": \"Algae is still high at 4.1%, and I have exactly 40 budget to remove it immediately before the final month. Cutting phosphate acts too slowly, and tourism is already at normal levels.\"}",
+  "dca6f8d1477854db236c6479869eed9304733b430180cb0d357c492c65c54c99": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 0.82,
+        "probabilities": {
+          "central_reduction": 0.01,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.85,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.14
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.11
+      }
+    }
+  },
+  "dcfa4dc46a73c2a0d212eed39c4ec4de9b24e62c005ab6ba4952943b294f0562": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.59,
+        "probabilities": {
+          "central_reduction": 0.04,
+          "wishful_thinking": 0.25,
+          "momentary_extrapolation": 0.05,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.0,
+          "none": 0.65
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.82
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.66
+      }
+    }
+  },
+  "dd070564f9180d7433ceb393dbf14bfa35b52cdd660d60e7b8d296158ce9c980": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 1.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.04
+      }
+    }
+  },
+  "dd3b2d94813264c902a7f40a8c3c2724be0a25fd9f3f5bf90e4568f3af1fe09b": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 0.82,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.85,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.15,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "dd4961670c81fbf95e1751cc4c22c18ced0883ebf86f3d57b39af7cb75d62e2f": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "immunization",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 1.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "de59f3408f501441c9af98731d2fb8fcf46507e5a8a740bad6794eb420904c79": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.02
+      }
+    }
+  },
+  "df53455903159716febc53e85ed8c2173e4f32f2c29090c919b8d174c53288e3": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 1.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.06
+      }
+    }
+  },
+  "e016b325ba8f258f5c852d17622231f636084ca5cbcb886023f6e4e606621c40": "{\"action\":\"cut_phosphate\",\"reason\":\"Algae is at 2.4% while tourism is normal at 100, so spending on slow phosphate reduction is better than promoting tourism; dredging costs 40 and is unaffordable with a 35 budget.\"}",
+  "e1962844ec94f69212ee1de88d97ad84e109953f7727eef48d0be0dce2df65ed": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "immunization",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 1.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "e22ff24cbb29709e44bd4e5d1ebcd8594bf5efe6b83316b5cfbb4c6cebe3c166": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "central_reduction",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 1.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.09
+      }
+    }
+  },
+  "e273423ddc2a810be2ee96e9486c6a8a4440fb0adf9d939840dea89d1c66f691": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.03
+      }
+    }
+  },
+  "e2e1888b5de108f56bbb3f758c0f4ca1a271618ce6e292a81e63c2fd57039a8c": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.17
+      }
+    }
+  },
+  "e33e29f5bdc7d466c6db1b94fbf54567ba451027f1b3caa8e63e10fd47471e99": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.12
+      }
+    }
+  },
+  "e7eed52b5b54629c0ca70f45ce193cc9f07727ee6d242c91b93ffce393c1258a": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.87
+      }
+    }
+  },
+  "e81c76e88d239aea1325c54ca29aebccda966a37d4dbc2568f1a3ed7e8ab3059": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.35
+      }
+    }
+  },
+  "e89df0632d0f03fc62e3787a6e899a3c62bc871d13ebd48d029bf5f38f388ce1": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.35
+      }
+    }
+  },
+  "e92f51dfa68927092d9280b3e8660ebe7a248d23f010ab23ff29626959e36c1f": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.06
+      }
+    }
+  },
+  "eb94df96f5168f25943e438859be6390e7560fb34945bc0297d2a3b2a53249b6": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 0.76,
+        "probabilities": {
+          "central_reduction": 0.07,
+          "wishful_thinking": 0.79,
+          "momentary_extrapolation": 0.01,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.0,
+          "none": 0.12
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.74
+      },
+      "side": {
+        "type": "noul",
+        "noul": 0.15
+      }
+    }
+  },
+  "edd0f7ac8375d8b7c9ab039f8d59766a353d54c9cfa7b8957409304b955ba56b": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.07
+      }
+    }
+  },
+  "ee52bcea9d9a695a4bd4de29f8b4ea97e55ea9a7184db564be810dbc58c6e60b": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 0.81,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.84,
+          "momentary_extrapolation": 0.08,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.07,
+          "methodism": 0.0,
+          "none": 0.01
+        }
+      }
+    }
+  },
+  "eec58d48260337b2183c71cd84ae83d017f9ae0c92605aef1e5de3c6051603b4": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "immunization",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 1.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "f04b894f2f691f002f5f742b780110f05539903a414fd9077e9a6c4fe6894ae8": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.06
+      }
+    }
+  },
+  "f085c66e29d86539f067f00c6b5dd7d7e4c6da2689f1d34d63bd4267ee00d57d": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 0.99,
+        "probabilities": {
+          "central_reduction": 0.01,
+          "wishful_thinking": 0.99,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.08
+      }
+    }
+  },
+  "f0c7904c7a28e837c04b3511fce77323ff99b9e54a3f51a9e9aa873c2a4be334": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.94,
+        "probabilities": {
+          "central_reduction": 0.04,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.0,
+          "none": 0.95
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.12
+      }
+    }
+  },
+  "f0fc990c7c791c5ca17053d96785b0fb8e7b514af53877da8ac0a333aa6be021": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "magical_hypothesis",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 1.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "f1307de94ccdacaef5fb6405ba25ab53822e640c3e4301a4d04eff092ba43c47": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "immunization",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 1.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.68
+      }
+    }
+  },
+  "f1b8dac37dabbf8716fa364c8b828debe0418a3268aa29c76896bdf72cb58a25": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.71
+      }
+    }
+  },
+  "f23023c3f115577ed227e5967a99ce303566380309b140e7d1152cfac95b4435": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 0.85,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.87,
+          "momentary_extrapolation": 0.03,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.07,
+          "methodism": 0.01,
+          "none": 0.02
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.17
+      }
+    }
+  },
+  "f364012687bee70c4271d74b1de3a96bb86accde9279b52b7f5c249cd80f9bb3": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "immunization",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 1.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.64
+      }
+    }
+  },
+  "f630452cecbf21cc5450b7a1adcf3bae7aee6b72a3f79475f6e4415dbcc03804": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "central_reduction",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 1.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.07
+      }
+    }
+  },
+  "f63bd17461169c8599580647126c3fd991c5ce46111cedb82aea30cf8b6aaa5c": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "none",
+        "confidence": 0.78,
+        "probabilities": {
+          "central_reduction": 0.07,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.12,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.81
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.54
+      }
+    }
+  },
+  "f640d476461b9e9321bf7584e72237f3e3a532bbbe71b826d7400b40bc306d90": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.04
+      }
+    }
+  },
+  "f65823aaa6ae6e98dc33f8b497ddf18f388b27c9cfc97b3d59859e9185bc8bd4": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 0.99,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.99,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.01,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "f77252701e9b5e27219587336d4fadfe95750bee2e31acf8b8f4e202e1e9b0e8": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 1.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.04
+      }
+    }
+  },
+  "f78ea95cedcaa362b592af86a9ee002865128b38aa8005ba9f93ab91d953c686": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 1.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "f8d22f73725cdceeb1642d3109f2b100296fe65c2d99b31a28cbddde97a84402": "{\"action\": \"dredge_lake\", \"reason\": \"Algae has rebounded to 2.8%, so immediate mechanical removal is needed to protect the lake and prevent further tourism damage. The earlier phosphate cuts should help later, but they act too slowly to address this spike.\"}",
+  "fa464d7d4364872e0f6116d0c1c2004a75a35c7d567b0c1c6908ef78396c928b": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "wishful_thinking",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 1.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.16
+      }
+    }
+  },
+  "faf56aac2b76c4e128fbd55d5641b89ce2be04970bbff15034380fc94222388d": "{\"action\": \"cut_phosphate\", \"reason\": \"Algae has rebounded to 2.4% while tourism is already above normal, so addressing the root cause is more important than further promotion. With a budget of 20, cut_phosphate is affordable and will reduce future algae slowly.\"}",
+  "fc64baa844f3c2a0fd4eefa3a08c6f578cebf06cb06542438141d8104e4f2756": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "momentary_extrapolation",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 1.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "fc9a9c0acb7afe5f885d3fb9c8a4071c88062326c4502fcbc43bce0084d4dddf": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "q": {
+        "type": "noul",
+        "noul": 0.8
+      }
+    }
+  },
+  "fd6fd8af713a4cd5fed4400c23a155dad9c4e9d595148e10045e74eb94b93b34": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "methodism",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 0.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 1.0,
+          "none": 0.0
+        }
+      }
+    }
+  },
+  "fe13e952ecdf58eda52d1aa61bf06a88f334d66603247655276b780b72a13a75": "{\"action\": \"wait\", \"reason\": \"Budget is only 15, so I cannot afford cut_phosphate or dredge_lake, and tourism is already normal at 100 so promotion is unnecessary.\"}",
+  "fea0d49a94c50d3e16d1f6b1c86ef63cf57e231c380eae451ced3f2195987352": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "error": {
+        "type": "choice",
+        "choice": "central_reduction",
+        "confidence": 1.0,
+        "probabilities": {
+          "central_reduction": 1.0,
+          "wishful_thinking": 0.0,
+          "momentary_extrapolation": 0.0,
+          "immunization": 0.0,
+          "magical_hypothesis": 0.0,
+          "methodism": 0.0,
+          "none": 0.0
+        }
+      },
+      "checks": {
+        "type": "noul",
+        "noul": 0.42
+      }
+    }
+  }
+}

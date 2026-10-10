@@ -1,0 +1,58 @@
+
+## complexity
+  0 distractors              truth=True         jev=p(yes)=0.94                  ok
+  0 distractors              truth=False        jev=p(yes)=0.12                  ok
+  100 distractors            truth=True         jev=p(yes)=0.94                  ok
+  100 distractors            truth=False        jev=p(yes)=0.11                  ok
+  250 distractors            truth=True         jev=p(yes)=0.95                  ok
+  250 distractors            truth=False        jev=p(yes)=0.09                  ok
+  1000 distractors           truth=True         jev=p(yes)=0.95                  ok
+  1000 distractors           truth=False        jev=p(yes)=0.09                  ok
+  250 distractors + water decoys truth=True         jev=p(yes)=0.95                  ok
+  250 distractors + water decoys truth=False        jev=p(yes)=0.18                  ok
+
+## interconnectedness
+  1 hop, 4 side rules        truth=True         jev=p(yes)=0.96                  ok
+  1 hop, 4 side rules        truth=False        jev=p(yes)=0.05                  ok
+  3 hops, 8 side rules       truth=True         jev=p(yes)=0.91                  ok
+  3 hops, 8 side rules       truth=False        jev=p(yes)=0.06                  ok
+  6 hops, 12 side rules      truth=True         jev=p(yes)=0.87                  ok
+  6 hops, 12 side rules      truth=False        jev=p(yes)=0.07                  ok
+  11 hops, 16 side rules     truth=True         jev=p(yes)=0.72                  ok
+  11 hops, 16 side rules     truth=False        jev=p(yes)=0.13                  ok
+
+## dynamics
+  doubling weekly            truth=True         jev=p(yes)=0.75                  ok
+  +50% weekly                truth=True         jev=p(yes)=0.77                  ok
+  +25% weekly                truth=True         jev=p(yes)=0.47                  WRONG
+  +10% weekly                truth=False        jev=p(yes)=0.31                  ok
+  +0.5 points weekly         truth=False        jev=p(yes)=0.35                  ok
+  +3 points weekly           truth=True         jev=p(yes)=0.56                  ok
+
+## intransparency
+  direct test, polluted      truth=yes          jev=yes (1.00)                   ok
+  direct test, clean         truth=no           jev=no (0.95)                    ok
+  proxy only                 truth=cannot_tell  jev=cannot_tell (0.95)           ok
+  misleading cue             truth=cannot_tell  jev=cannot_tell (0.80)           ok
+  self-report only           truth=cannot_tell  jev=cannot_tell (0.95)           ok
+  rumour only                truth=cannot_tell  jev=cannot_tell (0.98)           ok
+
+## polytely
+  3 goals                    truth=True         jev=p(yes)=0.90                  ok
+  3 goals                    truth=False        jev=p(yes)=0.21                  ok
+  8 goals                    truth=True         jev=p(yes)=0.84                  ok
+  8 goals                    truth=False        jev=p(yes)=0.25                  ok
+  16 goals                   truth=True         jev=p(yes)=0.80                  ok
+  16 goals                   truth=False        jev=p(yes)=0.43                  ok
+  32 goals                   truth=True         jev=p(yes)=0.84                  ok
+  32 goals                   truth=False        jev=p(yes)=0.57                  WRONG
+
+## novelty
+  familiar                   truth=True         jev=p(yes)=0.85                  ok
+  familiar                   truth=False        jev=p(yes)=0.06                  ok
+  invented words             truth=True         jev=p(yes)=0.79                  ok
+  invented words             truth=False        jev=p(yes)=0.17                  ok
+  against world knowledge    truth=True         jev=p(yes)=0.78                  ok
+  against world knowledge    truth=False        jev=p(yes)=0.05                  ok
+
+42/44 right. Mean confidence when right 0.86, when wrong 0.55

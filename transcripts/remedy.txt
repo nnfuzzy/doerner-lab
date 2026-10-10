@@ -1,0 +1,27 @@
+## dynamics: raw numbers  vs  rate in words  vs  rate + projection by code
+  doubling weekly      truth=True   p(yes)=0.75 ok      p(yes)=0.87 ok      p(yes)=0.95 ok   
+  +50% weekly          truth=True   p(yes)=0.77 ok      p(yes)=0.80 ok      p(yes)=0.96 ok   
+  +25% weekly          truth=True   p(yes)=0.47 WRONG   p(yes)=0.71 ok      p(yes)=0.97 ok   
+  +10% weekly          truth=False  p(yes)=0.31 ok      p(yes)=0.35 ok      p(yes)=0.02 ok   
+  +0.5 points weekly   truth=False  p(yes)=0.35 ok      p(yes)=0.17 ok      p(yes)=0.02 ok   
+  +3 points weekly     truth=True   p(yes)=0.56 ok      p(yes)=0.59 ok      p(yes)=0.97 ok   
+
+## interconnectedness: shuffled rules  vs  consequences chained by code
+  1 hop, 4 side rules      truth=True   p(yes)=0.96 ok      p(yes)=0.94 ok   
+  1 hop, 4 side rules      truth=False  p(yes)=0.05 ok      p(yes)=0.04 ok   
+  3 hops, 8 side rules     truth=True   p(yes)=0.91 ok      p(yes)=0.93 ok   
+  3 hops, 8 side rules     truth=False  p(yes)=0.06 ok      p(yes)=0.04 ok   
+  6 hops, 12 side rules    truth=True   p(yes)=0.87 ok      p(yes)=0.92 ok   
+  6 hops, 12 side rules    truth=False  p(yes)=0.07 ok      p(yes)=0.04 ok   
+  11 hops, 16 side rules   truth=True   p(yes)=0.72 ok      p(yes)=0.94 ok   
+  11 hops, 16 side rules   truth=False  p(yes)=0.13 ok      p(yes)=0.06 ok   
+
+## polytely: one question over the list  vs  one question per goal, code takes the two highest
+  3 goals    truth=True   p(yes)=0.90 ok      per goal: conflict=True  ok    top two: 'keep the old town completely car-free' 0.95, 'add 200 parking spaces in the old town' 0.86
+  3 goals    truth=False  p(yes)=0.21 ok      per goal: conflict=False ok    top two: 'keep the old town completely car-free' 0.16, 'add 200 parking spaces at the station' 0.15
+  8 goals    truth=True   p(yes)=0.84 ok      per goal: conflict=True  ok    top two: 'keep the old town completely car-free' 0.89, 'add 200 parking spaces in the old town' 0.80
+  8 goals    truth=False  p(yes)=0.25 ok      per goal: conflict=False ok    top two: 'keep the old town completely car-free' 0.23, 'add 200 parking spaces at the station' 0.15
+  16 goals   truth=True   p(yes)=0.80 ok      per goal: conflict=True  ok    top two: 'keep the old town completely car-free' 0.86, 'add 200 parking spaces in the old town' 0.79
+  16 goals   truth=False  p(yes)=0.43 ok      per goal: conflict=False ok    top two: 'keep the old town completely car-free' 0.24, 'add a night bus on weekends' 0.18
+  32 goals   truth=True   p(yes)=0.84 ok      per goal: conflict=True  ok    top two: 'keep the old town completely car-free' 0.86, 'add 200 parking spaces in the old town' 0.85
+  32 goals   truth=False  p(yes)=0.57 WRONG   per goal: conflict=False ok    top two: 'keep the old town completely car-free' 0.28, 'support the farmers' market' 0.23

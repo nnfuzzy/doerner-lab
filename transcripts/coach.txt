@@ -1,0 +1,66 @@
+
+# without the coach
+  m1  cut_phosphate    algae   2.7%  tourism  95.0  budget   90 | jev: none 0.85, side p=0.91
+       reason: Algae is already at 2.0%, and phosphate reduction acts slowly, so starting early is the best way to prevent blooms later. I will preserve budget by waiting on costly dredging or tourism promotion until the lake condition or visitor numbers require it.
+  m2  dredge_lake      algae   2.0%  tourism  90.0  budget   60 | jev: none 0.59, side p=0.21
+       reason: Algae has risen to 2.7% despite the early phosphate cut, and it is nearing levels that could further hurt tourism. Dredging now removes algae immediately and is affordable with the current budget.
+       coach (silent in this run): your last reason mentions no delayed effect or side effect of what you did.
+  m3  promote_tourism  algae   2.8%  tourism  91.0  budget   55 | jev: wishful_thinking 0.76, side p=0.15
+       reason: Tourism is below normal and hoteliers are demanding action; with algae at 2.0% and phosphate cuts already underway, an immediate tourism boost is the best use of funds.
+       code: repair service: the loud variable while the critical one grew 20%+
+       coach (silent in this run): your last reason looks like wishful thinking: expects a good outcome without naming any mechanism or evidence for it.
+  m4  dredge_lake      algae   1.8%  tourism  96.0  budget   25 | jev: none 0.74, side p=0.60
+       reason: Algae has rebounded to 2.8%, so immediate mechanical removal is needed to protect the lake and prevent further tourism damage. The earlier phosphate cuts should help later, but they act too slowly to address this spike.
+  m5  promote_tourism  algae   2.4%  tourism 106.0  budget   20 | jev: wishful_thinking 0.58, side p=0.71
+       reason: Algae is at a manageable 1.8% and dredging is unaffordable, while tourism is below normal and hoteliers are demanding action. Promoting tourism now boosts the economy, and a phosphate cut can follow next month.
+       code: repair service: the loud variable while the critical one grew 20%+
+  m6  cut_phosphate    algae   2.9%  tourism 100.0  budget   10 | jev: none 0.67, side p=0.94
+       reason: Algae has rebounded to 2.4% while tourism is already above normal, so addressing the root cause is more important than further promotion. With a budget of 20, cut_phosphate is affordable and will reduce future algae slowly.
+  m7  wait             algae   3.5%  tourism 100.0  budget   20 | jev: wishful_thinking 0.35, side p=0.57
+       reason: Budget is only 10, so I cannot afford dredging, phosphate cuts, or tourism promotion. Waiting preserves funds for a more impactful action next month.
+  m8  cut_phosphate    algae   4.1%  tourism 100.0  budget   10 | jev: none 0.64, side p=0.40
+       reason: Algae has risen to 3.5% and dredging is unaffordable with only 20 budget; cutting phosphate now addresses the root cause before tourism suffers.
+       code: ballistic: a second dose before the first one acted
+  m9  wait             algae   4.4%  tourism 100.0  budget   20 | jev: none 0.59, side p=0.37
+       reason: Budget is only 10, so no intervention is affordable this month. Algae is high at 4.1%, but waiting is the only available action until income accumulates.
+  m10 wait             algae   4.6%  tourism 100.0  budget   30 | jev: none 0.78, side p=0.90
+       reason: Dredging is unaffordable at 20, and cutting phosphate acts too slowly to help with algae already at 4.4%. Save the 10 monthly income to afford immediate dredging soon.
+  m11 wait             algae   4.1%  tourism 100.0  budget   40 | jev: none 0.76, side p=0.77
+       reason: Dredging is unaffordable now with only 30 budget, but waiting saves enough so the 40-cost dredge can be done next month to reduce the high algae level. Cutting phosphate acts too slowly and promoting tourism won't address the 4.6% algae reading.
+  m12 dredge_lake      algae   2.1%  tourism 100.0  budget   10 | jev: none 0.56, side p=0.80
+       reason: Algae is still high at 4.1%, and I have exactly 40 budget to remove it immediately before the final month. Cutting phosphate acts too slowly, and tourism is already at normal levels.
+  end: algae 2.1%, tourism 100.0, budget 10
+
+# with the coach
+  m1  cut_phosphate    algae   2.7%  tourism  95.0  budget   90 | jev: none 0.85, side p=0.91
+       reason: Algae is already at 2.0%, and phosphate reduction acts slowly, so starting early is the best way to prevent blooms later. I will preserve budget by waiting on costly dredging or tourism promotion until the lake condition or visitor numbers require it.
+  m2  dredge_lake      algae   2.0%  tourism  90.0  budget   60 | jev: none 0.59, side p=0.21
+       reason: Algae has risen to 2.7% despite the early phosphate cut, and it is nearing levels that could further hurt tourism. Dredging now removes algae immediately and is affordable with the current budget.
+       coach: your last reason mentions no delayed effect or side effect of what you did.
+  m3  promote_tourism  algae   2.8%  tourism  91.0  budget   55 | jev: none 0.40, side p=0.65
+       reason: Tourism is at 90 and hoteliers are demanding action, so promoting tourism gives immediate relief; it costs 15, leaving 55, and has no direct algae benefit, while the earlier phosphate cut should keep reducing algae slowly.
+       code: repair service: the loud variable while the critical one grew 20%+
+  m4  dredge_lake      algae   1.8%  tourism  96.0  budget   25 | jev: momentary_extrapolation 0.57, side p=0.33
+       reason: Algae is at 2.8% and rising despite early phosphate cuts, so immediate dredging is needed to prevent a bloom crisis. Tourism is below normal but can be promoted later once the lake is under control.
+  m5  wait             algae   2.4%  tourism 100.0  budget   35 | jev: none 0.87, side p=0.79
+       reason: Algae is at a manageable 1.8% and tourism is near normal at 96, while the budget cannot cover dredging. Saving now keeps funds available for a dredge next month if algae rises again.
+  m6  cut_phosphate    algae   2.9%  tourism 100.0  budget   25 | jev: none 0.94, side p=0.43
+       reason: Algae is at 2.4% while tourism is normal at 100, so spending on slow phosphate reduction is better than promoting tourism; dredging costs 40 and is unaffordable with a 35 budget.
+  m7  cut_phosphate    algae   3.5%  tourism 100.0  budget   15 | jev: none 0.86, side p=0.94
+       reason: Algae is at 2.9% and rising, while dredging is unaffordable with only 25 budget. Cutting phosphate now will slow the long-term algae growth without hurting the already-normal tourism.
+       code: ballistic: a second dose before the first one acted
+  m8  wait             algae   4.1%  tourism 100.0  budget   25 | jev: none 0.82, side p=0.56
+       reason: Tourism is already normal at 100, while the budget of 15 cannot cover cut_phosphate (20) or dredge_lake (40). Waiting preserves funds for a more effective intervention when algae rises further.
+  m9  cut_phosphate    algae   4.4%  tourism 100.0  budget   15 | jev: none 0.80, side p=0.07
+       reason: Algae has risen to 4.1% and dredging is unaffordable with only 25 budget, so the affordable cut_phosphate action is the best way to address the underlying problem.
+       code: ballistic: a second dose before the first one acted
+       coach: your last reason mentions no delayed effect or side effect of what you did.
+  m10 wait             algae   3.9%  tourism 100.0  budget   25 | jev: none 0.73, side p=0.92
+       reason: With only 15 budget I cannot afford cut_phosphate or dredging, and tourism is already normal so promotion would waste funds. Waiting preserves income to afford cut_phosphate next month, though its slow-acting effect means algae will likely keep rising in the meantime.
+  m11 cut_phosphate    algae   3.5%  tourism 100.0  budget   15 | jev: none 0.80, side p=0.70
+       reason: Tourism is already normal at 100, so promotion is unnecessary, while dredging is unaffordable. With algae at 3.9%, using cut_phosphate continues the slow reduction effort and is affordable within the 25 budget.
+       code: ballistic: a second dose before the first one acted
+  m12 wait             algae   2.6%  tourism 100.0  budget   25 | jev: none 0.94, side p=0.04
+       reason: Budget is only 15, so I cannot afford cut_phosphate or dredge_lake, and tourism is already normal at 100 so promotion is unnecessary.
+       coach: your last reason mentions no delayed effect or side effect of what you did.
+  end: algae 2.6%, tourism 100.0, budget 25

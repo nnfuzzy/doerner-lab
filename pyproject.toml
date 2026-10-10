@@ -1,0 +1,18 @@
+[project]
+name = "doerner-lab"
+version = "0.1.0"
+description = "Dörner's lab for a judge model: Schaub's catalogue of how people fail in complex situations, as stress tests and a coaching loop for Jev"
+readme = "README.md"
+requires-python = ">=3.13"
+license = "MIT"
+dependencies = [
+    "cooksafe>=0.2.0,<0.3.0",
+    "matplotlib>=3.11",
+    "numpy>=2.5",
+    "openai>=3.20",
+    "python-dotenv>=1.2",
+    "typesafe-sdk>=0.7.2",
+]
+
+[dependency-groups]
+notebook = ["jupyter>=1.1", "nbconvert>=7"]

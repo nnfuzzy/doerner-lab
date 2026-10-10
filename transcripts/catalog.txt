@@ -1,0 +1,88 @@
+
+# criteria v1
+  central_reduction        -> central_reduction        1.00 ok    Everything that goes wrong in this town comes back to the new bypass r
+  central_reduction        -> central_reduction        0.96 ok    The real problem is the budget deficit. Fix that and the algae, the un
+  central_reduction        -> central_reduction        1.00 ok    Unemployment is the root of all of it; the lake, the hotels and the bu
+  central_reduction        -> central_reduction        1.00 ok    It is all the fault of the paper mill: the algae, the tourists staying
+  wishful_thinking         -> wishful_thinking         0.81 ok    I'll leave the algae alone this turn; lakes usually clean themselves, 
+  wishful_thinking         -> wishful_thinking         0.99 ok    The tourism campaign will surely bring the visitors back, people love 
+  wishful_thinking         -> wishful_thinking         0.85 ok    The budget will balance itself next year, things always get better aft
+  wishful_thinking         -> wishful_thinking         1.00 ok    No need to act on unemployment, I have a good feeling about the coming
+  momentary_extrapolation  -> momentary_extrapolation  0.93 ok    Algae cover grew by one point a week for the last month, so in ten wee
+  momentary_extrapolation  -> momentary_extrapolation  1.00 ok    Tourism fell 12% this quarter, so in a year it will be down about 48%;
+  momentary_extrapolation  -> momentary_extrapolation  1.00 ok    Unemployment has been flat for three months, so it will stay flat for 
+  momentary_extrapolation  -> momentary_extrapolation  1.00 ok    The budget improved by 2,000 euros in each of the last two turns, so b
+  immunization             -> immunization             1.00 ok    My fish-stocking plan didn't lower the algae, but only because of the 
+  immunization             -> immunization             1.00 ok    The tax cut was supposed to bring tourists back. It didn't, but only b
+  immunization             -> immunization             1.00 ok    Unemployment rose despite my job programme, but the factory closure wa
+  immunization             -> immunization             1.00 ok    The forecast missed because the data came from a strange month; nothin
+  magical_hypothesis       -> magical_hypothesis       0.98 ok    The last two times I raised the parking fees, the algae went down the 
+  magical_hypothesis       -> magical_hypothesis       1.00 ok    Tourism rose the week we repainted the town hall, so painting public b
+  magical_hypothesis       -> magical_hypothesis       1.00 ok    A plan I announced on a Monday worked and one I announced on a Friday 
+  magical_hypothesis       -> magical_hypothesis       0.93 ok    Twice the lake cleared up after the brass band played on the shore, so
+  methodism                -> methodism                1.00 ok    Last year a marketing campaign fixed the tourist slump, so I'm running
+  methodism                -> methodism                1.00 ok    Cutting taxes worked in my last town, so I'll cut taxes here too.
+  methodism                -> methodism                1.00 ok    Dredging cleared the harbour basin in 2019, so I'll dredge the lake ag
+  methodism                -> methodism                1.00 ok    When numbers look bad I always start with budget cuts; that is how I h
+  none                     -> none                     0.91 ok    I'll cut the phosphate inflow from the farms; it acts with a delay of 
+  none                     -> none                     0.71 ok    Tourism is down, but the algae will cost more if left alone; most of t
+  none                     -> none                     0.43 ok    Unemployment is flat; I'll leave it and watch the factory orders, whic
+  none                     -> none                     1.00 ok    I don't know yet why the budget slipped; I'll look at this quarter's s
+  none (near miss)         -> none                     0.93 ok    Most visible problems trace back to the algae, but the budget gap has 
+  none (near miss)         -> none                     0.89 ok    I expect the algae to fall next month because the new treatment plant 
+  none (near miss)         -> momentary_extrapolation  0.95 WRONG Algae cover grew 25% a week for six weeks; if that compounding continu
+  none (near miss)         -> none                     0.57 ok    My fish-stocking plan failed. The hot week may have played a part, so 
+  none (near miss)         -> none                     0.78 ok    Twice the algae dropped after parking fees rose; probably a coincidenc
+  none (near miss)         -> methodism                0.88 WRONG The campaign worked last year because visitors came for the beach; the
+  v1: 32/34 right | code acts only at confidence >= 0.7: 30/32 right, 2 sent to a human | near misses left unflagged: 4/6
+
+# criteria v2
+  central_reduction        -> central_reduction        1.00 ok    Everything that goes wrong in this town comes back to the new bypass r
+  central_reduction        -> central_reduction        0.96 ok    The real problem is the budget deficit. Fix that and the algae, the un
+  central_reduction        -> central_reduction        1.00 ok    Unemployment is the root of all of it; the lake, the hotels and the bu
+  central_reduction        -> central_reduction        1.00 ok    It is all the fault of the paper mill: the algae, the tourists staying
+  wishful_thinking         -> wishful_thinking         0.86 ok    I'll leave the algae alone this turn; lakes usually clean themselves, 
+  wishful_thinking         -> wishful_thinking         0.99 ok    The tourism campaign will surely bring the visitors back, people love 
+  wishful_thinking         -> wishful_thinking         0.82 ok    The budget will balance itself next year, things always get better aft
+  wishful_thinking         -> wishful_thinking         1.00 ok    No need to act on unemployment, I have a good feeling about the coming
+  momentary_extrapolation  -> momentary_extrapolation  0.99 ok    Algae cover grew by one point a week for the last month, so in ten wee
+  momentary_extrapolation  -> momentary_extrapolation  1.00 ok    Tourism fell 12% this quarter, so in a year it will be down about 48%;
+  momentary_extrapolation  -> momentary_extrapolation  0.99 ok    Unemployment has been flat for three months, so it will stay flat for 
+  momentary_extrapolation  -> momentary_extrapolation  1.00 ok    The budget improved by 2,000 euros in each of the last two turns, so b
+  immunization             -> immunization             1.00 ok    My fish-stocking plan didn't lower the algae, but only because of the 
+  immunization             -> immunization             1.00 ok    The tax cut was supposed to bring tourists back. It didn't, but only b
+  immunization             -> immunization             1.00 ok    Unemployment rose despite my job programme, but the factory closure wa
+  immunization             -> immunization             1.00 ok    The forecast missed because the data came from a strange month; nothin
+  magical_hypothesis       -> magical_hypothesis       0.94 ok    The last two times I raised the parking fees, the algae went down the 
+  magical_hypothesis       -> magical_hypothesis       0.99 ok    Tourism rose the week we repainted the town hall, so painting public b
+  magical_hypothesis       -> magical_hypothesis       0.99 ok    A plan I announced on a Monday worked and one I announced on a Friday 
+  magical_hypothesis       -> magical_hypothesis       0.89 ok    Twice the lake cleared up after the brass band played on the shore, so
+  methodism                -> methodism                1.00 ok    Last year a marketing campaign fixed the tourist slump, so I'm running
+  methodism                -> methodism                1.00 ok    Cutting taxes worked in my last town, so I'll cut taxes here too.
+  methodism                -> methodism                1.00 ok    Dredging cleared the harbour basin in 2019, so I'll dredge the lake ag
+  methodism                -> methodism                1.00 ok    When numbers look bad I always start with budget cuts; that is how I h
+  none                     -> none                     0.91 ok    I'll cut the phosphate inflow from the farms; it acts with a delay of 
+  none                     -> none                     0.71 ok    Tourism is down, but the algae will cost more if left alone; most of t
+  none                     -> none                     0.61 ok    Unemployment is flat; I'll leave it and watch the factory orders, whic
+  none                     -> none                     1.00 ok    I don't know yet why the budget slipped; I'll look at this quarter's s
+  none (near miss)         -> none                     0.95 ok    Most visible problems trace back to the algae, but the budget gap has 
+  none (near miss)         -> none                     0.92 ok    I expect the algae to fall next month because the new treatment plant 
+  none (near miss)         -> momentary_extrapolation  0.84 WRONG Algae cover grew 25% a week for six weeks; if that compounding continu
+  none (near miss)         -> none                     0.53 ok    My fish-stocking plan failed. The hot week may have played a part, so 
+  none (near miss)         -> none                     0.64 ok    Twice the algae dropped after parking fees rose; probably a coincidenc
+  none (near miss)         -> methodism                0.87 WRONG The campaign worked last year because visitors came for the beach; the
+  v2: 32/34 right | code acts only at confidence >= 0.7: 29/31 right, 3 sent to a human | near misses left unflagged: 4/6
+
+# criteria v2 + one condition check (checks v1), code decides
+  momentary_extrapolation  -> momentary_extrapolation  checks p=0.70 -> none                     WRONG Unemployment has been flat for three months, so it will stay
+  momentary_extrapolation  -> momentary_extrapolation  checks p=0.58 -> none                     WRONG The budget improved by 2,000 euros in each of the last two t
+  methodism                -> methodism                checks p=0.69 -> none                     WRONG Last year a marketing campaign fixed the tourist slump, so I
+  methodism                -> methodism                checks p=0.60 -> none                     WRONG Dredging cleared the harbour basin in 2019, so I'll dredge t
+  none (near miss)         -> momentary_extrapolation  checks p=0.11 -> momentary_extrapolation  WRONG Algae cover grew 25% a week for six weeks; if that compoundi
+  none (near miss)         -> methodism                checks p=0.96 -> none                     ok    The campaign worked last year because visitors came for the 
+  29/34 right | near misses left unflagged: 5/6
+
+# criteria v2 + one condition check (checks v2), code decides
+  none (near miss)         -> momentary_extrapolation  checks p=0.34 -> momentary_extrapolation  WRONG Algae cover grew 25% a week for six weeks; if that compoundi
+  none (near miss)         -> methodism                checks p=0.80 -> none                     ok    The campaign worked last year because visitors came for the 
+  33/34 right | near misses left unflagged: 5/6
