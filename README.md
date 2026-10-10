@@ -124,8 +124,9 @@ Two things stand out.
 variables, 11-hop chains, invented vocabulary and missing evidence without help. It did not handle compound
 growth given as raw numbers, which is the failure Schaub reports for people: exponential developments
 underestimated, extrapolated as straight lines. On goals the failure flips. Schaub's people do not *notice*
-that their goals contradict each other. Jev, as the goal list grew, became more and more convinced that
-something contradicted something when nothing did. People miss conflicts. Jev invents them.
+that their goals contradict each other. Jev, as the goal list grew, put more and more probability on a
+contradiction that was not there, and at 32 goals it crossed the coin flip. People miss conflicts; Jev drifted
+toward seeing ones that were not there.
 
 **Its confidence fell where its accuracy fell, which is the part Dörner's subjects lacked.** The people in
 Schaub's catalogue protect their sense of competence and go wrong with conviction. Jev went wrong at 0.53 and
@@ -287,7 +288,7 @@ def decide(error, checks_p):
 ```
 
 The first wording ("does the reason explain why an earlier success should still hold?") was too soft. Jev read
-*"it worked last year"* as an explanation (0.58–0.70) and the veto removed four true errors. The second wording
+a past success or a past trend as an explanation (0.58–0.70) and the veto removed four true errors. The second wording
 asks for a fact about the present. The methodism near miss scored 0.80 and was cleared, and no planted error was
 touched. The remaining miss (*"if that compounding continues it doubles every three weeks, so I'll act now"*)
 is one I would call borderline myself, since it does carry a trend forward.
@@ -334,7 +335,7 @@ The same mayor, the same system, run twice: once with the coach silent, once wit
 ### Months 2 and 3
 
 In month 2 both runs dredge the lake while algae is at 2.7%. The reason (*"Dredging now removes algae immediately
-and is affordable"*) says nothing about consequences. Jev's side-effect probability is **0.21**, and the coach
+and is affordable"*) says nothing about delayed or side effects. Jev's side-effect probability is **0.21**, and the coach
 says: *"your last reason mentions no delayed effect or side effect of what you did."* That note was more right
 than anything else in the run. The dredge's side effect is exactly what makes the algae jump 40% in month 3.
 
@@ -379,7 +380,7 @@ action?") and combine them in code.
 This is not Goodhart's law. The mayor was not trying to beat the referee, and the note only ever talked about
 words, so changed words are the expected effect. What did not happen is the step a trainer exists for: from
 seeing an error in one's own reasoning to reconsidering the decision. Prompting a model to reflect on its
-reasons improved the reasons. It did not reopen the choice.
+reasons changed the reasons. In that month it did not reopen the choice.
 
 ### The rest of the run
 
@@ -391,8 +392,9 @@ label is a definition, not a verdict.
 
 The two runs took the same actions for four months and diverged from month 5 (promote tourism without the coach,
 wait with it). The coach had been silent since month 2, and the month-5 prompts differed only in the wording of the
-mayor's own remembered reasons. With one run each way, and a mayor whose answers vary from sample to sample, that
-divergence cannot be put down to the coach. One run of twelve months each way shows nothing about whether coaching
+mayor's own remembered reasons, and the month-3 reason among them differed because of the note. So the note may
+have acted later through the mayor's memory, but with one run each way that cannot be told apart from noise. One
+run of twelve months each way shows nothing about whether coaching
 improves the outcome. It does show where to look: in the gap between the reason column and the action column.
 
 ---
@@ -402,7 +404,7 @@ improves the outcome. It does show where to look: in the gap between the reason 
 - **A judge that holds up under size, distance and novelty.** It handled 1,000 variables, 11 causal hops,
   invented words and rules that contradict world knowledge without help.
 - **Weak on compound growth, like Schaub's people, and on long goal lists, the other way round:** they miss
-  goal conflicts, Jev invents them. Unlike them, its confidence dropped where it failed. A 0.7 floor turned 42/44
+  goal conflicts, Jev leaned toward seeing ones that were not there. Unlike them, its confidence dropped where it failed. A 0.7 floor turned 42/44
   into 38 acted on, 0 wrong, and 6 handed to a human. That rests on two errors, and it did not carry over to the
   near-miss reasons of Recipe 3, which were wrong at 0.95 and 0.88.
 - **Fixed by preparing the input, not by rewording the question.** Code forecasts, chains and decomposes. Jev
@@ -424,7 +426,11 @@ uv run python doerner_jev.py remedy      # Recipe 2
 uv run python doerner_jev.py catalog     # Recipe 3
 uv run python doerner_jev.py coach       # Recipe 4, needs DEEPSEEK_API_KEY, about 3 minutes on first run
 uv run python replicate_month3.py        # month 3 again, 5 + 5 fresh samples, never cached
+uv sync --group notebook && uv run jupyter nbconvert --to notebook --execute --inplace the_coach_who_cannot_play.ipynb
 ```
+
+The last line re-executes the essay's notebook: it replays the cache with the keys removed, so it never calls a
+model, and it fails loudly if an asserted number drifts.
 
 What is here:
 
