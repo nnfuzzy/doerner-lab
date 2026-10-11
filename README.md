@@ -337,7 +337,7 @@ The same mayor, the same system, run twice: once with the coach silent, once wit
 In month 2 both runs dredge the lake while algae is at 2.7%. The reason (*"Dredging now removes algae immediately
 and is affordable"*) says nothing about delayed or side effects. Jev's side-effect probability is **0.21**, and the coach
 says: *"your last reason mentions no delayed effect or side effect of what you did."* That note was more right
-than anything else in the run. The dredge's side effect is exactly what makes the algae jump 40% in month 3.
+than anything else in the run. The dredge's side effect adds ten points to the 45% by which the algae grow in month 3.
 
 Month 3:
 
@@ -364,7 +364,7 @@ times out of ten. The wishful-thinking flag in the single run above did not hold
 appeared once, at 0.56, below the line where code acts.
 
 Whether the action *should* have changed is a question my code cannot settle either. Its "repair service" label
-fired because algae grew 40% that month, but that was from 2.0% to 2.8% of the lake, far below the 15% where algae
+fired because algae grew 45% that month, but that was from 2.0% to 2.8% of the lake, far below the 15% where algae
 starts to hurt tourism, after the mayor had already cut phosphate and dredged. Both runs ended with a clean lake.
 The label is a definition, ground-truthed by nothing, like the *ballistic* label below. Only the judge's answers
 in Recipes 1 to 3 have known right answers.
