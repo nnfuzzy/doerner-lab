@@ -1,5 +1,7 @@
 # The Coach Who Cannot Play: Jev in Dörner's Lab
 
+The essay built on this lab: [The Critic Who Cannot Plan](https://medium.com/@mining-facts/the-critic-who-cannot-plan-d66f908b792c) (Medium, 2026-10-12): Popper's role for AI in policy making, a critic rather than a planner, with the lab, the remedies, Popper's question and the coach as its evidence.
+
 *A Python cookbook for a judge model, built from a German catalogue of how people fail in complex situations.
 There is no leaderboard here: no model-versus-model heatmaps. One model is put under stress in the conditions
 where people are known to fail, and the tutorial looks at what holds and what breaks.*
