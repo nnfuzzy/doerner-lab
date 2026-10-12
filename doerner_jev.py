@@ -4,6 +4,7 @@
     python doerner_jev.py remedy     # Table 2 of Schaub as code: the same failures, input prepared by code
     python doerner_jev.py catalog    # the error catalogue as one typed question, on planted reasons
     python doerner_jev.py coach      # Schaub's last page: an LLM mayor governs, Jev coaches, code decides
+    python doerner_jev.py popper     # Popper's question to every reason: could the coming months show it wrong?
     python doerner_jev.py check      # the pure parts, no network
 
 Needs TYPESAFE_API_KEY (and DEEPSEEK_API_KEY for `coach`) in a .env beside this file; inside quantsoc101 the keys
@@ -405,6 +406,57 @@ def decide(error, checks_p):
     return error
 
 
+# --- Popper's criterion as a typed question: could what happens next show the reason wrong? (added 2026-10-12)
+
+TESTABLE = {"type": "score",
+            "instructions": "How could the coming months show `steward_reason` to have been wrong?",
+            "criteria": ["Nothing in it could be shown wrong by what happens next",
+                         "It expects an outcome but names no measure, place or time by which to check it",
+                         "It names what it expects to see, where and by when, so a later month could show it wrong"]}
+
+
+def testable(answer):
+    """Code decides: Popper's bar is the top level, not the average score."""
+    p = answer["probabilities"]
+    return (p.get("2", p.get(2, 0.0))) >= 0.5
+
+
+def run_popper():
+    """Popper's question to every reason there is: the 34 planted ones, both mayors' years, the ten month-3 samples."""
+    import re
+
+    rows = []
+    for label, reasons in PLANTED.items():
+        for reason in reasons:
+            rows.append((f"planted: {label}", reason, jev({**SITUATION, "steward_reason": reason}, {"testable": TESTABLE})["testable"]))
+    month2 = None
+    for coached in (False, True):
+        s, history, note = dict(START), [], None
+        for m in range(12):
+            action, reason = mayor(s, history, note if coached else None)
+            after = step(s, action)
+            town = words(s)
+            rows.append((f"mayor, {'with' if coached else 'without'} the coach", reason, jev({"town": town, "steward_reason": reason}, {"testable": TESTABLE})["testable"]))
+            note = coach_note(jev({"town": town, "steward_reason": reason}, {"error": ERRORS_V2, "checks": CHECKS_V2, "side": SIDE}))
+            history.append(f"{after['action']}: {reason[:80]}")
+            s = after
+            if not coached and m == 1:
+                month2 = dict(s)
+    text = (HERE / "transcripts" / "replicate_month3.txt").read_text()
+    for block in re.split(r"# month 3, ", text)[1:]:
+        label = block.split("\n", 1)[0].strip()
+        for reason in re.findall(r"  \d\. \w+\s+jev: .*\n     (.+)", block):
+            rows.append((f"month 3, {label}", reason, jev({"town": words(month2), "steward_reason": reason}, {"testable": TESTABLE})["testable"]))
+    print("## Popper's question: how could the coming months show the reason to have been wrong? (score 0-2, testable = level 2 at p >= 0.5)")
+    for group in dict.fromkeys(g for g, _, _ in rows):
+        here = [(r, a) for g, r, a in rows if g == group]
+        print(f"\n### {group}: n={len(here)}, mean score {sum(a['score'] for _, a in here) / len(here):.2f}, "
+              f"testable {sum(testable(a) for _, a in here)}/{len(here)}")
+        for reason, a in here:
+            print(f"  {a['score']:.2f} {'testable' if testable(a) else '        '}  {reason[:96]}")
+    return rows
+
+
 # --- The coach: Schaub's last page as a loop. An LLM governs a declared system, Jev reads every reason, code decides
 # whether the mayor hears about it. The coach names the error; it never says what to do.
 
@@ -562,4 +614,4 @@ def run_lab():
 
 
 if __name__ == "__main__":
-    {"lab": run_lab, "remedy": run_remedy, "catalog": run_catalog, "coach": run_coach, "check": check}[sys.argv[1] if len(sys.argv) > 1 else "lab"]()
+    {"lab": run_lab, "remedy": run_remedy, "catalog": run_catalog, "coach": run_coach, "popper": run_popper, "check": check}[sys.argv[1] if len(sys.argv) > 1 else "lab"]()

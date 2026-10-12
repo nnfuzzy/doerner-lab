@@ -142,6 +142,26 @@
       }
     }
   },
+  "05018d7152c17df054eaad1a86f31e9004835ae9e45a667987a58f1bb08e1a26": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.08,
+        "confidence": 0.78,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.04,
+          "1": 0.85,
+          "2": 0.11
+        }
+      }
+    }
+  },
   "06576297625e8bd95da5ea774a85a78af85e3b8c9ec6e00327afc95014b6de41": {
     "model": "jev-1.13.0",
     "answers": {
@@ -216,6 +236,26 @@
           "magical_hypothesis": 0.0,
           "methodism": 0.0,
           "none": 0.0
+        }
+      }
+    }
+  },
+  "09a5429afb07c7465704cef82970f5eecfb4d5a22498b015cf268ba46ddc7dae": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.88,
+        "confidence": 0.8,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.04,
+          "1": 0.05,
+          "2": 0.91
         }
       }
     }
@@ -519,6 +559,26 @@
       }
     }
   },
+  "148d86a6ffe77684a739b61ae1f9cb674fe284c4079016f89bcdbb6d65ed04f4": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.07,
+        "confidence": 0.44,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.15,
+          "1": 0.63,
+          "2": 0.22
+        }
+      }
+    }
+  },
   "14ac73289b3c982c43da4f88db38cd30bc56257cb70c9054be346a0ba26d4e95": {
     "model": "jev-1.13.0",
     "answers": {
@@ -552,6 +612,26 @@
       "q": {
         "type": "noul",
         "noul": 0.04
+      }
+    }
+  },
+  "14de2cd012a518547e9c8ca0ca93633c9ceb1907ca7ef77d91b94f847d744554": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 0.9,
+        "confidence": 0.46,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.23,
+          "1": 0.64,
+          "2": 0.13
+        }
       }
     }
   },
@@ -930,6 +1010,26 @@
       }
     }
   },
+  "25480357d864f14c6bc8587def00f56389f4ba909251d25efaa3ccda304835c4": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.06,
+        "confidence": 0.49,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.14,
+          "1": 0.66,
+          "2": 0.2
+        }
+      }
+    }
+  },
   "2723299a38dd2c7eea4b445b42e57fc18e7860df90f60f43fffe8b004e62a47a": "{\"action\":\"cut_phosphate\",\"reason\":\"Algae has risen to 3.5% and dredging is unaffordable with only 20 budget; cutting phosphate now addresses the root cause before tourism suffers.\"}",
   "282e11179c8e2ac2aaaf46862071115fd0d0f470ef4c3042a5645673d39b5539": {
     "model": "jev-1.13.0",
@@ -956,6 +1056,26 @@
       "q": {
         "type": "noul",
         "noul": 0.95
+      }
+    }
+  },
+  "2a2dca61ff8f8d93304d18ea5c84c25d85c2c9e9a2728bceee6d6a8c28fce4ad": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.29,
+        "confidence": 0.32,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.08,
+          "1": 0.55,
+          "2": 0.37
+        }
       }
     }
   },
@@ -988,6 +1108,26 @@
       "checks": {
         "type": "noul",
         "noul": 0.74
+      }
+    }
+  },
+  "2bb57f47d0ee99a3e177d511ea408f7c516329284cc4892404842ac2f1f22723": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.11,
+        "confidence": 0.68,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.05,
+          "1": 0.79,
+          "2": 0.16
+        }
       }
     }
   },
@@ -1150,6 +1290,46 @@
       }
     }
   },
+  "33f52b491cb3f0aed5e96c62c51a62f5db1dda8c48911382a88fd3c36a1f6459": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.34,
+        "confidence": 0.34,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.05,
+          "1": 0.56,
+          "2": 0.39
+        }
+      }
+    }
+  },
+  "3439c0a396b5a78bb6c8b8d2386748eccd00b9673bf572a6ea8dfd3f35cb3028": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.08,
+        "confidence": 0.28,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.2,
+          "1": 0.52,
+          "2": 0.28
+        }
+      }
+    }
+  },
   "3547042b5087fa1daa5981af02c103d9a62a1e0e6a2962a8b58c8137d6a5880c": {
     "model": "jev-1.13.0",
     "answers": {
@@ -1201,6 +1381,26 @@
       }
     }
   },
+  "3955bf04f27a0a87bb9a322c442825f7945486673c3b59d70bf6db64a32c2955": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.96,
+        "confidence": 0.94,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.01,
+          "1": 0.02,
+          "2": 0.97
+        }
+      }
+    }
+  },
   "39c6e534543e9a947090f481ec179032c9ba1ee8f8e84f1b9dbc865dfdd7aa2e": "{\"action\": \"dredge_lake\", \"reason\": \"Algae is at 2.8% and rising despite early phosphate cuts, so immediate dredging is needed to prevent a bloom crisis. Tourism is below normal but can be promoted later once the lake is under control.\"}",
   "3a7c288f0cec195005100b8a03e96451fadda514297feb179f83afc400003698": {
     "model": "jev-1.13.0",
@@ -1208,6 +1408,46 @@
       "q": {
         "type": "noul",
         "noul": 0.78
+      }
+    }
+  },
+  "3a84037f3ec7b5d0c5d731767a0d62a0bb3114fb6168d848cb54ea0f54df39a0": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.33,
+        "confidence": 0.44,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.02,
+          "1": 0.63,
+          "2": 0.35
+        }
+      }
+    }
+  },
+  "3c46b56a402997902592a3054c94b854d486a12a0adb408d22bf5439662d982f": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.1,
+        "confidence": 0.71,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.05,
+          "1": 0.81,
+          "2": 0.14
+        }
       }
     }
   },
@@ -1278,6 +1518,26 @@
       "checks": {
         "type": "noul",
         "noul": 0.42
+      }
+    }
+  },
+  "3e98ffc0521aed2746a17a2bc566fa6c48ee32c13162c304ec640aa63b370c39": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.02,
+        "confidence": 0.64,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.11,
+          "1": 0.76,
+          "2": 0.13
+        }
       }
     }
   },
@@ -1490,6 +1750,26 @@
       }
     }
   },
+  "4794c6a4041d6552d645ed193467c51285eb924ab911c5c81be387389bc855b6": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.14,
+        "confidence": 0.61,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.06,
+          "1": 0.74,
+          "2": 0.2
+        }
+      }
+    }
+  },
   "482d7b3bd67cb9452a278ce1f5038ae71bdd8427f69623055aee373f4d150d25": {
     "model": "jev-1.13.0",
     "answers": {
@@ -1656,6 +1936,26 @@
       }
     }
   },
+  "4cce5952dd9a0d3e526b2856f0fef6d421774ead4c1f40ad3b161ea385caa9eb": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.07,
+        "confidence": 0.71,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.06,
+          "1": 0.81,
+          "2": 0.13
+        }
+      }
+    }
+  },
   "4d19bb75b24009c3f2d9827e3a121dc3b558cddd1a56395835d351375a427c51": {
     "model": "jev-1.13.0",
     "answers": {
@@ -1737,12 +2037,72 @@
     }
   },
   "4f0b5b3f258635d1dd9ddb35e776a11abad329cfee93e3703c073b6c32d552e2": "{\"action\": \"cut_phosphate\", \"reason\": \"Algae has risen to 4.1% and dredging is unaffordable with only 25 budget, so the affordable cut_phosphate action is the best way to address the underlying problem.\"}",
+  "4f61a06bfdf57215123039e17c0898b93c93226dc3238444e417ebfe3661cd64": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.87,
+        "confidence": 0.79,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.03,
+          "1": 0.08,
+          "2": 0.89
+        }
+      }
+    }
+  },
   "506da0476051692783fa86620c361a1643f815a332355880829a120c11368953": {
     "model": "jev-1.13.0",
     "answers": {
       "q": {
         "type": "noul",
         "noul": 0.97
+      }
+    }
+  },
+  "51d7032229741ed9d3d9f68b84c1403afb0bae23f861d8c2f6c5c61f75b83b30": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 0.92,
+        "confidence": 0.56,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.19,
+          "1": 0.71,
+          "2": 0.1
+        }
+      }
+    }
+  },
+  "532dd12b0e8aa5227115a8d77cd536103424619881f71076416c4d98d042a90b": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 0.86,
+        "confidence": 0.64,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.19,
+          "1": 0.76,
+          "2": 0.05
+        }
       }
     }
   },
@@ -1815,12 +2175,72 @@
       }
     }
   },
+  "539c2ce0b3319a91bc3741e7b9dba3560ff55ec0a42a67d74001e72a5b9c1011": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.83,
+        "confidence": 0.73,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.04,
+          "1": 0.1,
+          "2": 0.86
+        }
+      }
+    }
+  },
   "5446aa5451d127e7da8db7f64a2b7a130d127c679b3594328392323898764003": {
     "model": "jev-1.13.0",
     "answers": {
       "q": {
         "type": "noul",
         "noul": 0.93
+      }
+    }
+  },
+  "54470c744f188fc98653cceb56dbee127291809156d1ef3143a9c43d35ea8fdf": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.22,
+        "confidence": 0.55,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.04,
+          "1": 0.7,
+          "2": 0.26
+        }
+      }
+    }
+  },
+  "548b45b786e0fbed13270e3245e3db33c0fee62c846c2f40fca2a0b0b3f56f2a": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.87,
+        "confidence": 0.82,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.03,
+          "1": 0.06,
+          "2": 0.91
+        }
       }
     }
   },
@@ -2006,6 +2426,26 @@
       }
     }
   },
+  "5fd5c6ea66729e9fea5820b13f101098acbc23c7bb78d4e8b970c16824761bf3": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.12,
+        "confidence": 0.78,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.02,
+          "1": 0.85,
+          "2": 0.13
+        }
+      }
+    }
+  },
   "60761f5850333d7dc6054d08ee04f94f9774b5de9b62442eb48a8ae7ccc6b969": {
     "model": "jev-1.13.0",
     "answers": {
@@ -2044,6 +2484,26 @@
       "checks": {
         "type": "noul",
         "noul": 0.1
+      }
+    }
+  },
+  "6123a6afdb8d2f309e73bc824eec798080dc1b4c34e2467f0c46ccc9dc194a58": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.71,
+        "confidence": 0.56,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.01,
+          "1": 0.27,
+          "2": 0.72
+        }
       }
     }
   },
@@ -2269,6 +2729,26 @@
       }
     }
   },
+  "64ea9f414e701bcbfd1609c230d399f4903b87ce5ce4ebb22663305ccc56c1ed": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.21,
+        "confidence": 0.47,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.07,
+          "1": 0.65,
+          "2": 0.28
+        }
+      }
+    }
+  },
   "65f627ee53bbcc8f0fbd37fb628339e63d248dee3ecd10306d76a6a3c3bf838e": {
     "model": "jev-1.13.0",
     "answers": {
@@ -2298,6 +2778,26 @@
       "checks": {
         "type": "noul",
         "noul": 0.38
+      }
+    }
+  },
+  "6639afe3a653c86ea65702f61761229009823e7627e3274ed93e22d46a206b8f": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.93,
+        "confidence": 0.9,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.01,
+          "1": 0.05,
+          "2": 0.94
+        }
       }
     }
   },
@@ -2361,6 +2861,26 @@
       "side": {
         "type": "noul",
         "noul": 0.98
+      }
+    }
+  },
+  "67411f8120520b64ce3bc561711b6000a1fc5bdf8ea51541e64dcf92e10d6d07": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.05,
+        "confidence": 0.53,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.13,
+          "1": 0.6900000000000001,
+          "2": 0.18
+        }
       }
     }
   },
@@ -2486,6 +3006,26 @@
       }
     }
   },
+  "6dd67b5422d1e41e3b6d53f3dc0c4e4c391500f722d70018855bd9e851f8c8d5": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 0.94,
+        "confidence": 0.64,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.15,
+          "1": 0.76,
+          "2": 0.09
+        }
+      }
+    }
+  },
   "6ef9891bd47b8469c6d3c9ede2d62bff7f358fbba29da250dafa22197c611cb7": {
     "model": "jev-1.13.0",
     "answers": {
@@ -2592,6 +3132,26 @@
       }
     }
   },
+  "745df4cae7c033b1c16bf3de08756bc104f1576e5e7a55036bf5df0834d9eb10": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.16,
+        "confidence": 0.67,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.03,
+          "1": 0.78,
+          "2": 0.19
+        }
+      }
+    }
+  },
   "75fbc99da44ac46308b18ebebd19fc002a8682c7bf45bbadba3bc21f76239867": {
     "model": "jev-1.13.0",
     "answers": {
@@ -2616,6 +3176,26 @@
       "side": {
         "type": "noul",
         "noul": 0.22
+      }
+    }
+  },
+  "769cc8eb615817f006625ee798ed9fe4729a9edc25caf7fd096c7e616e6ca962": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.89,
+        "confidence": 0.83,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.03,
+          "1": 0.05,
+          "2": 0.92
+        }
       }
     }
   },
@@ -2777,6 +3357,46 @@
       }
     }
   },
+  "81e6ba6bf38e26ba8938a9e88ffaf032fe0959e1a6baf8412d8e625a1d3af7f2": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.69,
+        "confidence": 0.53,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.07,
+          "1": 0.17,
+          "2": 0.76
+        }
+      }
+    }
+  },
+  "8317805da7c0e61bcea9c57cef2ac89428b06d79333e0dc2d984b3d9954b6c04": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 0.93,
+        "confidence": 0.62,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.16,
+          "1": 0.75,
+          "2": 0.09
+        }
+      }
+    }
+  },
   "8491f48edd9a50c77e461d928e54ae4f16cd7c3d738ed0d3a59c602a82aabeff": {
     "model": "jev-1.13.0",
     "answers": {
@@ -2847,6 +3467,26 @@
           "magical_hypothesis": 0.02,
           "methodism": 0.9,
           "none": 0.04
+        }
+      }
+    }
+  },
+  "8d0fc9ca3a64a7540768e8cde159c72b129fffdf856b9406ab9cf17d92ef3b7e": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.32,
+        "confidence": 0.25,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.09,
+          "1": 0.5,
+          "2": 0.41
         }
       }
     }
@@ -2964,6 +3604,26 @@
       }
     }
   },
+  "929cdb824d5baed49073d0c6607d85c50472c130097642f8a49ada1c863280f7": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.13,
+        "confidence": 0.66,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.05,
+          "1": 0.77,
+          "2": 0.18
+        }
+      }
+    }
+  },
   "95019b962c54c5f00ce13f2d582a5f3469309c6aa897d15f873997d15bfc23df": {
     "model": "jev-1.13.0",
     "answers": {
@@ -3047,6 +3707,26 @@
       }
     }
   },
+  "9bc9c3c114cd98e2f40678fe54926ef496bad0ea14bfea5b33f15036531ff394": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.12,
+        "confidence": 0.74,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.02,
+          "1": 0.83,
+          "2": 0.15
+        }
+      }
+    }
+  },
   "9d39010d6225e81f8ad7a47433f2ef86dece6cc2b9921b875cd42aed1ba48361": {
     "model": "jev-1.13.0",
     "answers": {
@@ -3062,6 +3742,26 @@
           "magical_hypothesis": 0.12,
           "methodism": 0.0,
           "none": 0.0
+        }
+      }
+    }
+  },
+  "9dfacf64f8a2b562234190220d987d4830c2ef299c4326e82165c27a07be6178": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 0.96,
+        "confidence": 0.79,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.09,
+          "1": 0.86,
+          "2": 0.05
         }
       }
     }
@@ -3210,6 +3910,46 @@
       }
     }
   },
+  "a1f8c5ccbf28d99b8c0000c2b5dfb3d27ebfe9f93472a40c8cc22415c5f0fde3": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 0.99,
+        "confidence": 0.37,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.21,
+          "1": 0.58,
+          "2": 0.21
+        }
+      }
+    }
+  },
+  "a3214e804408b5f22f49b94363585a4c487b1920c2c1eb2baa6088bb1dc5556a": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.67,
+        "confidence": 0.52,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.01,
+          "1": 0.3,
+          "2": 0.69
+        }
+      }
+    }
+  },
   "a359f79c838b63982d203d7f988b8216aedc4d6d1e1cebd4248f302c988b3370": {
     "model": "jev-1.13.0",
     "answers": {
@@ -3279,12 +4019,52 @@
       }
     }
   },
+  "a68aa3911ac52ff2a060112888a34251787a9215f6411457d07d78ea57adcf78": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 0.86,
+        "confidence": 0.7,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.17,
+          "1": 0.8,
+          "2": 0.03
+        }
+      }
+    }
+  },
   "a6aa4094dfa270bf8d0d8306d3c0146c24c4287ccea554312055480936b585a1": {
     "model": "jev-1.13.0",
     "answers": {
       "q": {
         "type": "noul",
         "noul": 0.77
+      }
+    }
+  },
+  "a6e2b247df16f8b76d3fdf8f122d5577e70b1b108b7e1c1fbab012ad8f526c4d": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.64,
+        "confidence": 0.46,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.02,
+          "1": 0.32,
+          "2": 0.66
+        }
       }
     }
   },
@@ -3608,6 +4388,26 @@
       }
     }
   },
+  "b35b7c751188d8380225728fe1b44effbe39a1480202e9cc062fabe15af2a25c": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.92,
+        "confidence": 0.86,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.03,
+          "1": 0.03,
+          "2": 0.94
+        }
+      }
+    }
+  },
   "b36fd4a79abc76e7fb3cbbdce93260827791ba94c5579142d7b8e88185d67eee": "{\"action\": \"cut_phosphate\", \"reason\": \"Tourism is already normal at 100, so promotion is unnecessary, while dredging is unaffordable. With algae at 3.9%, using cut_phosphate continues the slow reduction effort and is affordable within the 25 budget.\"}",
   "b45453eba911a597f57823bc0a226711dd1a9855122a18c766c4f2b5b3ecc01b": {
     "model": "jev-1.13.0",
@@ -3640,6 +4440,46 @@
       "q": {
         "type": "noul",
         "noul": 0.7
+      }
+    }
+  },
+  "b61b108977ee93fd173a052922050b8121bc8341e3ea435f48d7eeda919edde1": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.81,
+        "confidence": 0.73,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.08,
+          "1": 0.02,
+          "2": 0.9
+        }
+      }
+    }
+  },
+  "b7117e520def5f60ce829d0c871edafac5ad07ceb7b2121b565ccbd52ac82fdf": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.39,
+        "confidence": 0.07,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.13,
+          "1": 0.36,
+          "2": 0.51
+        }
       }
     }
   },
@@ -3676,6 +4516,26 @@
       "q": {
         "type": "noul",
         "noul": 0.07
+      }
+    }
+  },
+  "bacd4f5ef788db806a3059c29188e2c8b86dca79e4126e39c0d2a073abd1a098": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.15,
+        "confidence": 0.53,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.08,
+          "1": 0.68,
+          "2": 0.23
+        }
       }
     }
   },
@@ -3740,6 +4600,26 @@
       }
     }
   },
+  "bd2083b6e7836c2b23c8bb0c5f9ff8aec296c4dfa05e6d6768e8ec20d1041f3c": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.31,
+        "confidence": 0.4,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.05,
+          "1": 0.6,
+          "2": 0.35
+        }
+      }
+    }
+  },
   "bd71355fc8dd4719c4d45323e7089fc605e10400077aede951e82b189dc83999": {
     "model": "jev-1.13.0",
     "answers": {
@@ -3787,6 +4667,26 @@
       "side": {
         "type": "noul",
         "noul": 0.56
+      }
+    }
+  },
+  "bfda7f33f2ec6b323688a0003564758b8c665a91e70d81661e9f9f428f800692": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.08,
+        "confidence": 0.88,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.0,
+          "1": 0.92,
+          "2": 0.08
+        }
       }
     }
   },
@@ -3851,6 +4751,26 @@
       }
     }
   },
+  "c19a34a9d654a3fe346f7a6a3b436b3a55682a076b3cd9aa17a47e81029f303d": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.17,
+        "confidence": 0.66,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.03,
+          "1": 0.77,
+          "2": 0.2
+        }
+      }
+    }
+  },
   "c19fe3f6e9a6a83f31d71c83e5c8ed62de2d20bf01a696c50d6c0d6521c602e7": "{\"action\": \"wait\", \"reason\": \"With only 15 budget I cannot afford cut_phosphate or dredging, and tourism is already normal so promotion would waste funds. Waiting preserves income to afford cut_phosphate next month, though its slow-acting effect means algae will likely keep rising in the meantime.\"}",
   "c2155cc5b3f374dc314ed444d267c26bfe753cbf22943348e08f918e204394ec": {
     "model": "jev-1.13.0",
@@ -3872,6 +4792,26 @@
       "checks": {
         "type": "noul",
         "noul": 0.19
+      }
+    }
+  },
+  "c2f0682e0c8d6417f7e4e883a806bc2c084dd2cac6b7f9bdf7085182d6783500": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.24,
+        "confidence": 0.37,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.09,
+          "1": 0.58,
+          "2": 0.33
+        }
       }
     }
   },
@@ -3922,6 +4862,26 @@
       "side": {
         "type": "noul",
         "noul": 0.07
+      }
+    }
+  },
+  "c4a1deca2d33967513dfabdb418575945c6c93084a0855a60aba672e80741c18": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.71,
+        "confidence": 0.58,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.01,
+          "1": 0.26,
+          "2": 0.73
+        }
       }
     }
   },
@@ -3996,6 +4956,26 @@
           "yes": 1.0,
           "no": 0.0,
           "cannot_tell": 0.0
+        }
+      }
+    }
+  },
+  "c9f24b8e191205968deaa97aef8f48d48865eee971a4209296ef46dcb50a9c2a": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.04,
+        "confidence": 0.0,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.31,
+          "1": 0.34,
+          "2": 0.35
         }
       }
     }
@@ -4183,6 +5163,46 @@
       }
     }
   },
+  "cd50682f411d82ca86c94ee600d03335a9252fabfd360a47f77b04e61852b66e": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 0.89,
+        "confidence": 0.55,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.21,
+          "1": 0.7,
+          "2": 0.09
+        }
+      }
+    }
+  },
+  "cdedbc1f4640eac3d23bd681a80565a4bb919df3fd91a5075338b27f96f624c8": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.87,
+        "confidence": 0.8,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.03,
+          "1": 0.07,
+          "2": 0.9
+        }
+      }
+    }
+  },
   "ce34e28cdccc9e6ce1be53643d6c889841a8d2f1e333ba9a7a38e0af6abdbb56": {
     "model": "jev-1.13.0",
     "answers": {
@@ -4274,6 +5294,26 @@
       }
     }
   },
+  "d0d9c88c1b25b9f143f7b61cb5d314e3a79b82e0b76d19a12674e219b8d57eb2": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.76,
+        "confidence": 0.62,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.04,
+          "1": 0.17,
+          "2": 0.79
+        }
+      }
+    }
+  },
   "d15c64c6681e5ac8dcd7ab61b88b58124002a8682e4351e25389751d7a830cae": {
     "model": "jev-1.13.0",
     "answers": {
@@ -4303,6 +5343,26 @@
       "checks": {
         "type": "noul",
         "noul": 0.05
+      }
+    }
+  },
+  "d2e93cb1813af6630fd05e327e42e6ea4201b3199f5fa32995df57fa588fe933": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 0.77,
+        "confidence": 0.62,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.24,
+          "1": 0.75,
+          "2": 0.01
+        }
       }
     }
   },
@@ -4338,6 +5398,46 @@
       }
     }
   },
+  "d914d578714535fe1c5058611f2d42d644f5b0974ab47deb77192110d514f7c9": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.89,
+        "confidence": 0.83,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.03,
+          "1": 0.05,
+          "2": 0.92
+        }
+      }
+    }
+  },
+  "daa0631aaa8527012840a16548ef4d61fb16df2be407eb3265a2d942b0f505fc": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.04,
+        "confidence": 0.46,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.16,
+          "1": 0.64,
+          "2": 0.2
+        }
+      }
+    }
+  },
   "db47cbca927cdc0b7b0ef40ba3ed38fe3baf0a25441b76444565f88c83d244f2": {
     "model": "jev-1.13.0",
     "answers": {
@@ -4358,6 +5458,26 @@
     }
   },
   "dc5659ae5044faaf64e1fc6372c7a28520691a1241c217b1afafab38ee5e7048": "{\"action\": \"dredge_lake\", \"reason\": \"Algae is still high at 4.1%, and I have exactly 40 budget to remove it immediately before the final month. Cutting phosphate acts too slowly, and tourism is already at normal levels.\"}",
+  "dc7d223114b41a9f6f415a112a122e450a430e478f011ac777a97017b2ba2336": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.14,
+        "confidence": 0.46,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.11,
+          "1": 0.64,
+          "2": 0.25
+        }
+      }
+    }
+  },
   "dca6f8d1477854db236c6479869eed9304733b430180cb0d357c492c65c54c99": {
     "model": "jev-1.13.0",
     "answers": {
@@ -4428,6 +5548,46 @@
       "checks": {
         "type": "noul",
         "noul": 0.04
+      }
+    }
+  },
+  "dd1cf88e25ee12e7e57ebc6fd640a77f9f396d25cccaf0c728cc2b08eba496f0": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.45,
+        "confidence": 0.19,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.05,
+          "1": 0.44,
+          "2": 0.51
+        }
+      }
+    }
+  },
+  "dd1f8c7fba7f290b125f1016fa08e4b1467baea4f11cdfadfbc6ba96b6444d61": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.05,
+        "confidence": 0.76,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.05,
+          "1": 0.84,
+          "2": 0.11
+        }
       }
     }
   },
@@ -4571,6 +5731,26 @@
       }
     }
   },
+  "e603e35cb3f19652c638c4be397ee6b3cfc7b49bab6d4a1d70b9b172addad5b5": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.17,
+        "confidence": 0.47,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.09,
+          "1": 0.65,
+          "2": 0.26
+        }
+      }
+    }
+  },
   "e7eed52b5b54629c0ca70f45ce193cc9f07727ee6d242c91b93ffce393c1258a": {
     "model": "jev-1.13.0",
     "answers": {
@@ -4634,6 +5814,26 @@
       }
     }
   },
+  "ed9d52259195a2fa5e05481d6127ea58c9e806ff3af1b25c458366f3c4aafb30": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.91,
+        "confidence": 0.86,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.02,
+          "1": 0.05,
+          "2": 0.93
+        }
+      }
+    }
+  },
   "edd0f7ac8375d8b7c9ab039f8d59766a353d54c9cfa7b8957409304b955ba56b": {
     "model": "jev-1.13.0",
     "answers": {
@@ -4677,6 +5877,26 @@
           "magical_hypothesis": 0.0,
           "methodism": 0.0,
           "none": 0.0
+        }
+      }
+    }
+  },
+  "efc670b43df7e3cc74060f67bc7a9ec6e550f2aefd0564ff480e49b7edb2663a": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 0.92,
+        "confidence": 0.61,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.17,
+          "1": 0.74,
+          "2": 0.09
         }
       }
     }
@@ -4830,6 +6050,46 @@
       "checks": {
         "type": "noul",
         "noul": 0.64
+      }
+    }
+  },
+  "f4520154e8a0ab0aacf5d6fc46655c08178ec6866a744d91ddc445c4a6be6ad1": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 0.97,
+        "confidence": 0.61,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.15,
+          "1": 0.74,
+          "2": 0.11
+        }
+      }
+    }
+  },
+  "f509502679e704dd7624af777b7857303c3a877a46277b4468c060c80628b644": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.17,
+        "confidence": 0.49,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.09,
+          "1": 0.66,
+          "2": 0.25
+        }
       }
     }
   },
@@ -5002,6 +6262,26 @@
       }
     }
   },
+  "fd4fa3b82be570ca465e912d757c951f9f42cef1e6738256ea7c6555f2b2a00a": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.98,
+        "confidence": 0.95,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.01,
+          "1": 0.01,
+          "2": 0.98
+        }
+      }
+    }
+  },
   "fd6fd8af713a4cd5fed4400c23a155dad9c4e9d595148e10045e74eb94b93b34": {
     "model": "jev-1.13.0",
     "answers": {
@@ -5042,6 +6322,46 @@
       "checks": {
         "type": "noul",
         "noul": 0.42
+      }
+    }
+  },
+  "fef0224305c52c50e0b0761c11f011e3d8cb221c2ffa1d44121fe940793ffe92": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 1.04,
+        "confidence": 0.82,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.04,
+          "1": 0.88,
+          "2": 0.08
+        }
+      }
+    }
+  },
+  "ff2f7e9db44ac0908b20c7f804eb88a92ff3d577dec50b9dad03df1d160e67dc": {
+    "model": "jev-1.13.0",
+    "answers": {
+      "testable": {
+        "type": "score",
+        "score": 0.75,
+        "confidence": 0.35,
+        "legend": {
+          "0": "Nothing in it could be shown wrong by what happens next",
+          "1": "It expects an outcome but names no measure, place or time by which to check it",
+          "2": "It names what it expects to see, where and by when, so a later month could show it wrong"
+        },
+        "probabilities": {
+          "0": 0.34,
+          "1": 0.57,
+          "2": 0.09
+        }
       }
     }
   }

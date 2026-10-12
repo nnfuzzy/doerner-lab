@@ -1,0 +1,93 @@
+## Popper's question: how could the coming months show the reason to have been wrong? (score 0-2, testable = level 2 at p >= 0.5)
+
+### planted: central_reduction: n=4, mean score 1.08, testable 1/4
+  1.45 testable  Everything that goes wrong in this town comes back to the new bypass road; once we close it, tou
+  1.12           The real problem is the budget deficit. Fix that and the algae, the unemployment and the empty h
+  0.86           Unemployment is the root of all of it; the lake, the hotels and the budget are just symptoms of 
+  0.90           It is all the fault of the paper mill: the algae, the tourists staying away, the deficit. Close 
+
+### planted: wishful_thinking: n=4, mean score 1.44, testable 2/4
+  1.93 testable  I'll leave the algae alone this turn; lakes usually clean themselves, it will be fine by summer.
+  1.04           The tourism campaign will surely bring the visitors back, people love our town.
+  1.71 testable  The budget will balance itself next year, things always get better after a bad year.
+  1.07           No need to act on unemployment, I have a good feeling about the coming season.
+
+### planted: momentary_extrapolation: n=4, mean score 1.89, testable 4/4
+  1.92 testable  Algae cover grew by one point a week for the last month, so in ten weeks it will be about ten po
+  1.87 testable  Tourism fell 12% this quarter, so in a year it will be down about 48%; we must cut the hotel tax
+  1.89 testable  Unemployment has been flat for three months, so it will stay flat for the rest of the year; no a
+  1.88 testable  The budget improved by 2,000 euros in each of the last two turns, so by year end it will be 20,0
+
+### planted: immunization: n=4, mean score 1.07, testable 0/4
+  1.32           My fish-stocking plan didn't lower the algae, but only because of the unusually hot week; the pl
+  1.05           The tax cut was supposed to bring tourists back. It didn't, but only because of the rail strike;
+  1.02           Unemployment rose despite my job programme, but the factory closure was a one-off; my view of th
+  0.89           The forecast missed because the data came from a strange month; nothing about my approach needs 
+
+### planted: magical_hypothesis: n=4, mean score 1.30, testable 1/4
+  1.91 testable  The last two times I raised the parking fees, the algae went down the next week, so parking fees
+  1.17           Tourism rose the week we repainted the town hall, so painting public buildings brings visitors.
+  0.92           A plan I announced on a Monday worked and one I announced on a Friday failed, so I'll only annou
+  1.21           Twice the lake cleared up after the brass band played on the shore, so I'll book the band again.
+
+### planted: methodism: n=4, mean score 0.88, testable 0/4
+  0.97           Last year a marketing campaign fixed the tourist slump, so I'm running the same campaign again.
+  0.86           Cutting taxes worked in my last town, so I'll cut taxes here too.
+  0.93           Dredging cleared the harbour basin in 2019, so I'll dredge the lake again; it is our standard fi
+  0.77           When numbers look bad I always start with budget cuts; that is how I have done it for years.
+
+### planted: none: n=4, mean score 1.40, testable 2/4
+  1.81 testable  I'll cut the phosphate inflow from the farms; it acts with a delay of about a month, so I'll che
+  1.06           Tourism is down, but the algae will cost more if left alone; most of this turn's budget goes to 
+  1.69 testable  Unemployment is flat; I'll leave it and watch the factory orders, which lead it by about two mon
+  1.04           I don't know yet why the budget slipped; I'll look at this quarter's spending by department befo
+
+### planted: none (near miss): n=6, mean score 1.46, testable 3/6
+  0.92           Most visible problems trace back to the algae, but the budget gap has separate causes, so I'll s
+  1.98 testable  I expect the algae to fall next month because the new treatment plant comes online in week 8 and
+  1.76 testable  Algae cover grew 25% a week for six weeks; if that compounding continues it doubles every three 
+  1.08           My fish-stocking plan failed. The hot week may have played a part, so I'll test it in a normal w
+  1.07           Twice the algae dropped after parking fees rose; probably a coincidence, so I'll watch it before
+  1.96 testable  The campaign worked last year because visitors came for the beach; the beach is still clean, so 
+
+### mayor, without the coach: n=12, mean score 1.30, testable 3/12
+  1.05           Algae is already at 2.0%, and phosphate reduction acts slowly, so starting early is the best way
+  1.29           Algae has risen to 2.7% despite the early phosphate cut, and it is nearing levels that could fur
+  1.08           Tourism is below normal and hoteliers are demanding action; with algae at 2.0% and phosphate cut
+  1.24           Algae has rebounded to 2.8%, so immediate mechanical removal is needed to protect the lake and p
+  1.71 testable  Algae is at a manageable 1.8% and dredging is unaffordable, while tourism is below normal and ho
+  1.17           Algae has rebounded to 2.4% while tourism is already above normal, so addressing the root cause 
+  1.10           Budget is only 10, so I cannot afford dredging, phosphate cuts, or tourism promotion. Waiting pr
+  1.11           Algae has risen to 3.5% and dredging is unaffordable with only 20 budget; cutting phosphate now 
+  0.99           Budget is only 10, so no intervention is affordable this month. Algae is high at 4.1%, but waiti
+  1.15           Dredging is unaffordable at 20, and cutting phosphate acts too slowly to help with algae already
+  1.89 testable  Dredging is unaffordable now with only 30 budget, but waiting saves enough so the 40-cost dredge
+  1.83 testable  Algae is still high at 4.1%, and I have exactly 40 budget to remove it immediately before the fi
+
+### mayor, with the coach: n=12, mean score 1.22, testable 2/12
+  1.05           Algae is already at 2.0%, and phosphate reduction acts slowly, so starting early is the best way
+  1.29           Algae has risen to 2.7% despite the early phosphate cut, and it is nearing levels that could fur
+  1.14           Tourism is at 90 and hoteliers are demanding action, so promoting tourism gives immediate relief
+  1.34           Algae is at 2.8% and rising despite early phosphate cuts, so immediate dredging is needed to pre
+  1.87 testable  Algae is at a manageable 1.8% and tourism is near normal at 96, while the budget cannot cover dr
+  0.94           Algae is at 2.4% while tourism is normal at 100, so spending on slow phosphate reduction is bett
+  1.22           Algae is at 2.9% and rising, while dredging is unaffordable with only 25 budget. Cutting phospha
+  1.13           Tourism is already normal at 100, while the budget of 15 cannot cover cut_phosphate (20) or dred
+  0.96           Algae has risen to 4.1% and dredging is unaffordable with only 25 budget, so the affordable cut_
+  1.87 testable  With only 15 budget I cannot afford cut_phosphate or dredging, and tourism is already normal so 
+  1.04           Tourism is already normal at 100, so promotion is unnecessary, while dredging is unaffordable. W
+  0.75           Budget is only 15, so I cannot afford cut_phosphate or dredge_lake, and tourism is already norma
+
+### month 3, without the note: n=5, mean score 1.24, testable 1/5
+  1.08           Algae is at a manageable 2.0% after dredging, while tourism is below normal and hoteliers demand
+  1.67 testable  Tourism is below normal and hoteliers demand action, so promoting tourism addresses the immediat
+  1.17           Tourism is at 90 and hoteliers are demanding action, so immediate promotion is needed to revive 
+  1.16           Tourism is below normal and hoteliers are demanding action; algae at 2.0% is manageable, so boos
+  1.12           Tourism is below normal and hoteliers are demanding action; algae is at a manageable 2.0% after 
+
+### month 3, with the note: n=5, mean score 1.36, testable 2/5
+  1.14           Promote tourism to address the hoteliers' immediate demand while algae is still moderate at 2.0%
+  1.31           Promote tourism now: the slump is acute and the 15-cost boost is affordable. It won't affect alg
+  1.64 testable  Tourism is below normal and hoteliers demand action, so boosting visitor numbers now is urgent. 
+  1.33           The tourism index is only 90 and hoteliers are demanding action, so I will promote tourism now; 
+  1.39 testable  Promoting tourism addresses the hoteliers' slump immediately, but it costs 15 and does not reduc

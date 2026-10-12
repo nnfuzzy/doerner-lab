@@ -399,6 +399,61 @@ improves the outcome. It does show where to look: in the gap between the reason 
 
 ---
 
+## Recipe 5 · Popper's question, asked of every reason (added 2026-10-12)
+
+A critic that cannot plan cannot check whether a reason is true; the world decides that. It can check whether the
+reason is the kind of claim the world could decide. That is Popper's demarcation, and it fits the judge's grammar
+as a score question:
+
+```python
+TESTABLE = {"type": "score",
+            "instructions": "How could the coming months show `steward_reason` to have been wrong?",
+            "criteria": ["Nothing in it could be shown wrong by what happens next",
+                         "It expects an outcome but names no measure, place or time by which to check it",
+                         "It names what it expects to see, where and by when, so a later month could show it wrong"]}
+
+def testable(answer):
+    """Code decides: Popper's bar is the top level, not the average score."""
+    p = answer["probabilities"]
+    return p.get("2", p.get(2, 0.0)) >= 0.5
+```
+
+`python doerner_jev.py popper` asks it of every reason the experiment produced: the 34 planted ones, both mayors'
+years (24), and the ten month-3 samples (`transcripts/popper.txt`, 68 calls):
+
+| group | n | mean score | testable |
+|---|---|---|---|
+| immunization (planted) | 4 | 1.07 | **0** |
+| methodism (planted) | 4 | 0.88 | **0** |
+| central reduction (planted) | 4 | 1.08 | 1 |
+| magical hypothesis (planted) | 4 | 1.30 | 1 |
+| wishful thinking (planted) | 4 | 1.44 | 2 |
+| momentary extrapolation (planted) | 4 | 1.89 | **4** |
+| clean reasons (planted) | 4 | 1.40 | 2 |
+| near misses (planted) | 6 | 1.46 | 3 |
+| the mayor, no coach | 12 | 1.30 | 3 |
+| the mayor, coached | 12 | 1.22 | 2 |
+| month 3, without the note | 5 | 1.24 | 1 |
+| month 3, with the note | 5 | 1.36 | 2 |
+
+What the question separates: the immunized and the habitual (0 of 4 each) from the bold conjecture (momentary
+extrapolation, 4 of 4: refutable, and in Dörner's catalogue because it goes unrevised). What it does not: wishful
+thinking and the clean reasons each split 2 of 4, since a prediction is testable however badly argued, and a sound
+reason to wait and look is not yet a prediction. Testability is not truth and not soundness.
+
+Two consequences for the earlier recipes. The two near misses the catalogue question flagged with the highest
+confidence of its mistakes (0.95, 0.88) are among the three most testable near misses here (1.76, 1.96; the
+treatment-plant forecast 1.98): where Dörner's psychology of the thinker and Popper's logic of testing part, the
+judge sided with the psychology. And the mayor names what would show it wrong in 5 of its 24 reasons, coached or
+not; the coach's note, which spoke only about side effects, moved that from 1 of 5 to 2 of 5 in the resampled
+month.
+
+One more thing the transcript shows that the judge could not: the coached mayor's month-3 reason forecast that
+"the earlier phosphate cut should keep reducing algae slowly"; month 4 refuted it (algae 2.8% and rising, the cut
+not yet acting), the mayor said so and dredged. The judge, fed one reason at a time, scored that month-4 reason
+momentary extrapolation at 0.57. A judge of sentences cannot compare results expected with results achieved; only
+code holding last month's claim against this month's lake can, and nothing in this loop did.
+
 ## What Jev is, after this
 
 - **A judge that holds up under size, distance and novelty.** It handled 1,000 variables, 11 causal hops,
@@ -426,7 +481,8 @@ uv run python doerner_jev.py remedy      # Recipe 2
 uv run python doerner_jev.py catalog     # Recipe 3
 uv run python doerner_jev.py coach       # Recipe 4, needs DEEPSEEK_API_KEY, about 3 minutes on first run
 uv run python replicate_month3.py        # month 3 again, 5 + 5 fresh samples, never cached
-uv sync --group notebook && uv run jupyter nbconvert --to notebook --execute --inplace the_coach_who_cannot_play.ipynb
+uv run python doerner_jev.py popper      # Recipe 5, Popper's question to all 68 reasons
+uv sync --group notebook && uv run jupyter nbconvert --to notebook --execute --inplace the_critic_who_cannot_plan.ipynb
 ```
 
 The last line re-executes the essay's notebook: it replays the cache with the keys removed, so it never calls a
@@ -438,8 +494,8 @@ What is here:
 - `replicate_month3.py`: month 3 again, five fresh samples each way.
 - `jev_cache.json`: every recorded model answer (Jev's and the mayor's), replayed on every rerun.
 - `transcripts/`: the printed runs this tutorial quotes.
-- `the_coach_who_cannot_play.ipynb` and `images/doerner/`: the essay version's notebook. It asserts every number
-  against the cache and draws the six figures.
+- `the_critic_who_cannot_plan.ipynb` and `images/doerner/`: the essay version's notebook (the Popper spine). It
+  asserts every number against the cache and draws the six figures.
 
 `TYPESAFE_API_KEY` (and `DEEPSEEK_API_KEY` for the coach) go in a `.env` beside the scripts; copy
 `.env.example`. With `jev_cache.json` in place,
